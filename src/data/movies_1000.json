@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "tag": "Crime, Drama",
+    "short_description": "1994 • Frank Darabont • 142 min • 9.3"
+  },
+  {
+    "name": "The Dark Knight",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2008 • Christopher Nolan • 152 min • 9"
+  },
+  {
+    "name": "Inception",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2010 • Christopher Nolan • 148 min • 8.8"
+  },
+  {
+    "name": "Fight Club",
+    "tag": "Drama",
+    "short_description": "1999 • David Fincher • 139 min • 8.8"
+  },
+  {
+    "name": "Pulp Fiction",
+    "tag": "Crime, Drama",
+    "short_description": "1994 • Quentin Tarantino • 154 min • 8.9"
+  },
+  {
+    "name": "Forrest Gump",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1994 • Robert Zemeckis • 142 min • 8.8"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2001 • Peter Jackson • 178 min • 8.8"
+  },
+  {
+    "name": "The Matrix",
+    "tag": "Action, Sci-Fi",
+    "short_description": "1999 • Lana Wachowski, Lilly Wachowski • 136 min • 8.7"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2003 • Peter Jackson • 201 min • 8.9"
+  },
+  {
+    "name": "The Godfather",
+    "tag": "Crime, Drama",
+    "short_description": "1972 • Francis Ford Coppola • 175 min • 9.2"
+  },
+  {
+    "name": "The Dark Knight Rises",
+    "tag": "Action, Thriller",
+    "short_description": "2012 • Christopher Nolan • 164 min • 8.5"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2002 • Peter Jackson • 179 min • 8.7"
+  },
+  {
+    "name": "Se7en",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "1995 • David Fincher • 127 min • 8.6"
+  },
+  {
+    "name": "Gladiator",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2000 • Ridley Scott • 155 min • 8.5"
+  },
+  {
+    "name": "Interstellar",
+    "tag": "Adventure, Drama, Sci-Fi",
+    "short_description": "2014 • Christopher Nolan • 169 min • 8.6"
+  },
+  {
+    "name": "Batman Begins",
+    "tag": "Action, Adventure",
+    "short_description": "2005 • Christopher Nolan • 140 min • 8.3"
+  },
+  {
+    "name": "The Avengers",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2012 • Joss Whedon • 143 min • 8.1"
+  },
+  {
+    "name": "Django Unchained",
+    "tag": "Drama, Western",
+    "short_description": "2012 • Quentin Tarantino • 165 min • 8.4"
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1977 • George Lucas • 121 min • 8.7"
+  },
+  {
+    "name": "Inglourious Basterds",
+    "tag": "Adventure, Drama, War",
+    "short_description": "2009 • Quentin Tarantino, Eli Roth • 153 min • 8.3"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1991 • Jonathan Demme • 118 min • 8.6"
+  },
+  {
+    "name": "Saving Private Ryan",
+    "tag": "Drama, War",
+    "short_description": "1998 • Steven Spielberg • 169 min • 8.6"
+  },
+  {
+    "name": "The Departed",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2006 • Martin Scorsese • 151 min • 8.5"
+  },
+  {
+    "name": "Avatar",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2009 • James Cameron • 162 min • 7.8"
+  },
+  {
+    "name": "Schindler's List",
+    "tag": "Biography, Drama, History",
+    "short_description": "1993 • Steven Spielberg • 195 min • 8.9"
+  },
+  {
+    "name": "The Prestige",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2006 • Christopher Nolan • 130 min • 8.5"
+  },
+  {
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1980 • Irvin Kershner • 124 min • 8.8"
+  },
+  {
+    "name": "Memento",
+    "tag": "Mystery, Thriller",
+    "short_description": "2000 • Christopher Nolan • 113 min • 8.5"
+  },
+  {
+    "name": "American Beauty",
+    "tag": "Drama, Romance",
+    "short_description": "1999 • Sam Mendes • 122 min • 8.4"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "tag": "Biography, Comedy, Crime",
+    "short_description": "2013 • Martin Scorsese • 180 min • 8.2"
+  },
+  {
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2003 • Gore Verbinski • 143 min • 8"
+  },
+  {
+    "name": "Shutter Island",
+    "tag": "Mystery, Thriller",
+    "short_description": "2010 • Martin Scorsese • 138 min • 8.1"
+  },
+  {
+    "name": "The Green Mile",
+    "tag": "Crime, Drama, Fantasy",
+    "short_description": "1999 • Frank Darabont • 189 min • 8.5"
+  },
+  {
+    "name": "The Godfather: Part II",
+    "tag": "Crime, Drama",
+    "short_description": "1974 • Francis Ford Coppola • 202 min • 9"
+  },
+  {
+    "name": "V for Vendetta",
+    "tag": "Action, Drama, Thriller",
+    "short_description": "2005 • James McTeigue • 132 min • 8.2"
+  },
+  {
+    "name": "Titanic",
+    "tag": "Drama, Romance",
+    "short_description": "1997 • James Cameron • 194 min • 7.7"
+  },
+  {
+    "name": "American History X",
+    "tag": "Crime, Drama",
+    "short_description": "1998 • Tony Kaye • 119 min • 8.5"
+  },
+  {
+    "name": "Terminator 2: Judgment Day",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "1991 • James Cameron • 137 min • 8.5"
+  },
+  {
+    "name": "Back to the Future",
+    "tag": "Adventure, Comedy, Sci-Fi",
+    "short_description": "1985 • Robert Zemeckis • 116 min • 8.5"
+  },
+  {
+    "name": "The Usual Suspects",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "1995 • Bryan Singer • 106 min • 8.6"
+  },
+  {
+    "name": "Braveheart",
+    "tag": "Biography, Drama, History",
+    "short_description": "1995 • Mel Gibson • 178 min • 8.4"
+  },
+  {
+    "name": "Kill Bill: Vol. 1",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2003 • Quentin Tarantino • 111 min • 8.1"
+  },
+  {
+    "name": "Goodfellas",
+    "tag": "Crime, Drama",
+    "short_description": "1990 • Martin Scorsese • 146 min • 8.7"
+  },
+  {
+    "name": "Léon: The Professional",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1994 • Luc Besson • 110 min • 8.6"
+  },
+  {
+    "name": "WALLÂ·E",
+    "tag": "Animation, Adventure, Family",
+    "short_description": "2008 • Andrew Stanton • 98 min • 8.4"
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • James Gunn • 121 min • 8.1"
+  },
+  {
+    "name": "Finding Nemo",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2003 • Andrew Stanton, Lee Unkrich • 100 min • 8.1"
+  },
+  {
+    "name": "The Sixth Sense",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1999 • M. Night Shyamalan • 107 min • 8.1"
+  },
+  {
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1983 • Richard Marquand • 131 min • 8.4"
+  },
+  {
+    "name": "Iron Man",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2008 • Jon Favreau • 126 min • 7.9"
+  },
+  {
+    "name": "The Hunger Games",
+    "tag": "Adventure, Sci-Fi, Thriller",
+    "short_description": "2012 • Gary Ross • 142 min • 7.2"
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "tag": "Drama",
+    "short_description": "1975 • Milos Forman • 133 min • 8.7"
+  },
+  {
+    "name": "Up",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2009 • Pete Docter, Bob Peterson • 96 min • 8.3"
+  },
+  {
+    "name": "The Truman Show",
+    "tag": "Comedy, Drama, Sci-Fi",
+    "short_description": "1998 • Peter Weir • 103 min • 8.1"
+  },
+  {
+    "name": "Reservoir Dogs",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1992 • Quentin Tarantino • 99 min • 8.3"
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "tag": "Drama, Romance, Sci-Fi",
+    "short_description": "2004 • Michel Gondry • 108 min • 8.3"
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "tag": "Action, Adventure",
+    "short_description": "1981 • Steven Spielberg • 115 min • 8.5"
+  },
+  {
+    "name": "The Lion King",
+    "tag": "Animation, Adventure, Drama",
+    "short_description": "1994 • Roger Allers, Rob Minkoff • 88 min • 8.5"
+  },
+  {
+    "name": "Sin City",
+    "tag": "Crime, Thriller",
+    "short_description": "2005 • Frank Miller, Robert Rodriguez, Quentin Tarantino • 124 min • 8"
+  },
+  {
+    "name": "Toy Story",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "1995 • John Lasseter • 81 min • 8.3"
+  },
+  {
+    "name": "Slumdog Millionaire",
+    "tag": "Drama",
+    "short_description": "2008 • Danny Boyle, Loveleen Tandan • 120 min • 8"
+  },
+  {
+    "name": "The Hobbit: An Unexpected Journey",
+    "tag": "Adventure, Fantasy",
+    "short_description": "2012 • Peter Jackson • 169 min • 7.9"
+  },
+  {
+    "name": "Jurassic Park",
+    "tag": "Adventure, Sci-Fi, Thriller",
+    "short_description": "1993 • Steven Spielberg • 127 min • 8.1"
+  },
+  {
+    "name": "A Beautiful Mind",
+    "tag": "Biography, Drama",
+    "short_description": "2001 • Ron Howard • 135 min • 8.2"
+  },
+  {
+    "name": "No Country for Old Men",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2007 • Ethan Coen, Joel Coen • 122 min • 8.1"
+  },
+  {
+    "name": "Star Wars: The Force Awakens",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2015 • J.J. Abrams • 136 min • 8.1"
+  },
+  {
+    "name": "The Shining",
+    "tag": "Drama, Horror",
+    "short_description": "1980 • Stanley Kubrick • 146 min • 8.4"
+  },
+  {
+    "name": "Good Will Hunting",
+    "tag": "Drama",
+    "short_description": "1997 • Gus Van Sant • 126 min • 8.3"
+  },
+  {
+    "name": "The Terminator",
+    "tag": "Action, Sci-Fi",
+    "short_description": "1984 • James Cameron • 107 min • 8"
+  },
+  {
+    "name": "Deadpool",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2016 • Tim Miller • 108 min • 8"
+  },
+  {
+    "name": "Snatch",
+    "tag": "Comedy, Crime",
+    "short_description": "2000 • Guy Ritchie • 102 min • 8.3"
+  },
+  {
+    "name": "Gone Girl",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2014 • David Fincher • 149 min • 8.1"
+  },
+  {
+    "name": "300",
+    "tag": "Action, Fantasy",
+    "short_description": "2006 • Zack Snyder • 117 min • 7.7"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2001 • Pete Docter, David Silverman, Lee Unkrich • 92 min • 8.1"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • George Miller • 120 min • 8.1"
+  },
+  {
+    "name": "Die Hard",
+    "tag": "Action, Thriller",
+    "short_description": "1988 • John McTiernan • 131 min • 8.2"
+  },
+  {
+    "name": "Gravity",
+    "tag": "Drama, Sci-Fi, Thriller",
+    "short_description": "2013 • Alfonso Cuarón • 91 min • 7.8"
+  },
+  {
+    "name": "Donnie Darko",
+    "tag": "Drama, Sci-Fi, Thriller",
+    "short_description": "2001 • Richard Kelly • 113 min • 8.1"
+  },
+  {
+    "name": "Requiem for a Dream",
+    "tag": "Drama",
+    "short_description": "2000 • Darren Aronofsky • 102 min • 8.4"
+  },
+  {
+    "name": "Alien",
+    "tag": "Horror, Sci-Fi",
+    "short_description": "1979 • Ridley Scott • 117 min • 8.5"
+  },
+  {
+    "name": "The Hangover",
+    "tag": "Comedy",
+    "short_description": "2009 • Todd Phillips • 100 min • 7.8"
+  },
+  {
+    "name": "A Clockwork Orange",
+    "tag": "Crime, Drama, Sci-Fi",
+    "short_description": "1971 • Stanley Kubrick • 136 min • 8.3"
+  },
+  {
+    "name": "Gran Torino",
+    "tag": "Drama",
+    "short_description": "2008 • Clint Eastwood • 116 min • 8.2"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2011 • David Yates • 130 min • 8.1"
+  },
+  {
+    "name": "Iron Man 3",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • Shane Black • 130 min • 7.2"
+  },
+  {
+    "name": "Catch Me If You Can",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2002 • Steven Spielberg • 141 min • 8.1"
+  },
+  {
+    "name": "Toy Story 3",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2010 • Lee Unkrich • 103 min • 8.3"
+  },
+  {
+    "name": "Black Swan",
+    "tag": "Drama, Thriller",
+    "short_description": "2010 • Darren Aronofsky • 108 min • 8"
+  },
+  {
+    "name": "Man of Steel",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2013 • Zack Snyder • 143 min • 7.1"
+  },
+  {
+    "name": "The Big Lebowski",
+    "tag": "Comedy, Crime",
+    "short_description": "1998 • Joel Coen, Ethan Coen • 117 min • 8.2"
+  },
+  {
+    "name": "Scarface",
+    "tag": "Crime, Drama",
+    "short_description": "1983 • Brian De Palma • 170 min • 8.3"
+  },
+  {
+    "name": "Spider-Man",
+    "tag": "Action, Adventure",
+    "short_description": "2002 • Sam Raimi • 121 min • 7.3"
+  },
+  {
+    "name": "Star Wars: Episode I - The Phantom Menace",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1999 • George Lucas • 136 min • 6.5"
+  },
+  {
+    "name": "Amélie",
+    "tag": "Comedy, Romance",
+    "short_description": "2001 • Jean-Pierre Jeunet • 122 min • 8.4"
+  },
+  {
+    "name": "Thor",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2011 • Kenneth Branagh • 115 min • 7"
+  },
+  {
+    "name": "City of God",
+    "tag": "Crime, Drama",
+    "short_description": "2002 • Fernando Meirelles, Kátia Lund • 130 min • 8.7"
+  },
+  {
+    "name": "I Am Legend",
+    "tag": "Drama, Horror, Sci-Fi",
+    "short_description": "2007 • Francis Lawrence • 101 min • 7.2"
+  },
+  {
+    "name": "Silver Linings Playbook",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2012 • David O. Russell • 122 min • 7.8"
+  },
+  {
+    "name": "The Intouchables",
+    "tag": "Biography, Comedy, Drama",
+    "short_description": "2011 • Olivier Nakache, Eric Toledano • 112 min • 8.6"
+  },
+  {
+    "name": "Star Wars: Episode III - Revenge of the Sith",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2005 • George Lucas • 140 min • 7.6"
+  },
+  {
+    "name": "The Martian",
+    "tag": "Adventure, Drama, Sci-Fi",
+    "short_description": "2015 • Ridley Scott • 144 min • 8"
+  },
+  {
+    "name": "District 9",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2009 • Neill Blomkamp • 112 min • 8"
+  },
+  {
+    "name": "Iron Man 2",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2010 • Jon Favreau • 124 min • 7"
+  },
+  {
+    "name": "Pirates of the Caribbean: Dead Man's Chest",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2006 • Gore Verbinski • 151 min • 7.3"
+  },
+  {
+    "name": "X-Men: Days of Future Past",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Bryan Singer • 132 min • 8"
+  },
+  {
+    "name": "Indiana Jones and the Last Crusade",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1989 • Steven Spielberg • 127 min • 8.3"
+  },
+  {
+    "name": "X-Men: First Class",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2011 • Matthew Vaughn • 132 min • 7.8"
+  },
+  {
+    "name": "Captain America: The First Avenger",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2011 • Joe Johnston • 124 min • 6.9"
+  },
+  {
+    "name": "Skyfall",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2012 • Sam Mendes • 143 min • 7.8"
+  },
+  {
+    "name": "Taxi Driver",
+    "tag": "Crime, Drama",
+    "short_description": "1976 • Martin Scorsese • 113 min • 8.3"
+  },
+  {
+    "name": "The Pianist",
+    "tag": "Biography, Drama, Music",
+    "short_description": "2002 • Roman Polanski • 150 min • 8.5"
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Anthony Russo, Joe Russo • 136 min • 7.8"
+  },
+  {
+    "name": "Kill Bill: Vol. 2",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2004 • Quentin Tarantino • 137 min • 8"
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "tag": "Western",
+    "short_description": "1966 • Sergio Leone • 178 min • 8.9"
+  },
+  {
+    "name": "The King's Speech",
+    "tag": "Biography, Drama",
+    "short_description": "2010 • Tom Hooper • 118 min • 8"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2014 • Wes Anderson • 99 min • 8.1"
+  },
+  {
+    "name": "The Imitation Game",
+    "tag": "Biography, Drama, Thriller",
+    "short_description": "2014 • Morten Tyldum • 114 min • 8.1"
+  },
+  {
+    "name": "Transformers",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2007 • Michael Bay • 144 min • 7.1"
+  },
+  {
+    "name": "The Hunger Games: Catching Fire",
+    "tag": "Action, Adventure, Mystery",
+    "short_description": "2013 • Francis Lawrence • 146 min • 7.6"
+  },
+  {
+    "name": "Aliens",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1986 • James Cameron • 137 min • 8.4"
+  },
+  {
+    "name": "Star Trek",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2009 • J.J. Abrams • 127 min • 8"
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2010 • Dean DeBlois, Chris Sanders • 98 min • 8.1"
+  },
+  {
+    "name": "The Bourne Ultimatum",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2007 • Paul Greengrass • 115 min • 8.1"
+  },
+  {
+    "name": "Full Metal Jacket",
+    "tag": "Drama, War",
+    "short_description": "1987 • Stanley Kubrick • 116 min • 8.3"
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • Joss Whedon • 141 min • 7.4"
+  },
+  {
+    "name": "Million Dollar Baby",
+    "tag": "Drama, Sport",
+    "short_description": "2004 • Clint Eastwood • 132 min • 8.1"
+  },
+  {
+    "name": "The Hobbit: The Desolation of Smaug",
+    "tag": "Adventure, Fantasy",
+    "short_description": "2013 • Peter Jackson • 161 min • 7.9"
+  },
+  {
+    "name": "Trainspotting",
+    "tag": "Drama",
+    "short_description": "1996 • Danny Boyle • 94 min • 8.2"
+  },
+  {
+    "name": "The Social Network",
+    "tag": "Biography, Drama",
+    "short_description": "2010 • David Fincher • 120 min • 7.7"
+  },
+  {
+    "name": "The Incredibles",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2004 • Brad Bird • 115 min • 8"
+  },
+  {
+    "name": "Ratatouille",
+    "tag": "Animation, Comedy, Family",
+    "short_description": "2007 • Brad Bird, Jan Pinkava • 111 min • 8"
+  },
+  {
+    "name": "Pirates of the Caribbean: At World's End",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2007 • Gore Verbinski • 169 min • 7.1"
+  },
+  {
+    "name": "The Revenant",
+    "tag": "Adventure, Drama, Thriller",
+    "short_description": "2015 • Alejandro González Iñárritu • 156 min • 8"
+  },
+  {
+    "name": "Sherlock Holmes",
+    "tag": "Action, Adventure, Crime",
+    "short_description": "2009 • Guy Ritchie • 128 min • 7.6"
+  },
+  {
+    "name": "Taken",
+    "tag": "Action, Thriller",
+    "short_description": "2008 • Pierre Morel • 93 min • 7.8"
+  },
+  {
+    "name": "Star Wars: Episode II - Attack of the Clones",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2002 • George Lucas • 142 min • 6.6"
+  },
+  {
+    "name": "Pan's Labyrinth",
+    "tag": "Drama, Fantasy, War",
+    "short_description": "2006 • Guillermo del Toro • 118 min • 8.2"
+  },
+  {
+    "name": "Blade Runner",
+    "tag": "Sci-Fi, Thriller",
+    "short_description": "1982 • Ridley Scott • 117 min • 8.2"
+  },
+  {
+    "name": "Shrek",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2001 • Andrew Adamson, Vicky Jenson • 90 min • 7.9"
+  },
+  {
+    "name": "Casino Royale",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2006 • Martin Campbell • 144 min • 8"
+  },
+  {
+    "name": "World War Z",
+    "tag": "Action, Adventure, Horror",
+    "short_description": "2013 • Marc Forster • 116 min • 7"
+  },
+  {
+    "name": "Ted",
+    "tag": "Comedy, Fantasy",
+    "short_description": "2012 • Seth MacFarlane • 106 min • 7"
+  },
+  {
+    "name": "12 Angry Men",
+    "tag": "Crime, Drama",
+    "short_description": "1957 • Sidney Lumet • 96 min • 8.9"
+  },
+  {
+    "name": "Now You See Me",
+    "tag": "Crime, Mystery, Thriller",
+    "short_description": "2013 • Louis Leterrier • 115 min • 7.3"
+  },
+  {
+    "name": "Twelve Monkeys",
+    "tag": "Mystery, Sci-Fi, Thriller",
+    "short_description": "1995 • Terry Gilliam • 129 min • 8"
+  },
+  {
+    "name": "Fargo",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1996 • Joel Coen, Ethan Coen • 98 min • 8.1"
+  },
+  {
+    "name": "Prometheus",
+    "tag": "Adventure, Mystery, Sci-Fi",
+    "short_description": "2012 • Ridley Scott • 124 min • 7"
+  },
+  {
+    "name": "12 Years a Slave",
+    "tag": "Biography, Drama, History",
+    "short_description": "2013 • Steve McQueen • 134 min • 8.1"
+  },
+  {
+    "name": "The Curious Case of Benjamin Button",
+    "tag": "Drama, Fantasy, Romance",
+    "short_description": "2008 • David Fincher • 166 min • 7.8"
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2001 • Chris Columbus • 152 min • 7.5"
+  },
+  {
+    "name": "Whiplash",
+    "tag": "Drama, Music",
+    "short_description": "2014 • Damien Chazelle • 107 min • 8.5"
+  },
+  {
+    "name": "X-Men",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2000 • Bryan Singer • 104 min • 7.4"
+  },
+  {
+    "name": "Argo",
+    "tag": "Biography, Drama, History",
+    "short_description": "2012 • Ben Affleck • 120 min • 7.7"
+  },
+  {
+    "name": "Apocalypse Now",
+    "tag": "Drama, War",
+    "short_description": "1979 • Francis Ford Coppola • 153 min • 8.5"
+  },
+  {
+    "name": "Batman v Superman: Dawn of Justice",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2016 • Zack Snyder • 151 min • 6.7"
+  },
+  {
+    "name": "The Amazing Spider-Man",
+    "tag": "Action, Adventure",
+    "short_description": "2012 • Marc Webb • 136 min • 7"
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Doug Liman • 113 min • 7.9"
+  },
+  {
+    "name": "Groundhog Day",
+    "tag": "Comedy, Fantasy, Romance",
+    "short_description": "1993 • Harold Ramis • 101 min • 8"
+  },
+  {
+    "name": "Life of Pi",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2012 • Ang Lee • 127 min • 7.9"
+  },
+  {
+    "name": "Drive",
+    "tag": "Crime, Drama",
+    "short_description": "2011 • Nicolas Winding Refn • 100 min • 7.8"
+  },
+  {
+    "name": "Spirited Away",
+    "tag": "Animation, Adventure, Family",
+    "short_description": "2001 • Hayao Miyazaki • 125 min • 8.6"
+  },
+  {
+    "name": "Life Is Beautiful",
+    "tag": "Comedy, Drama, War",
+    "short_description": "1997 • Roberto Benigni • 116 min • 8.6"
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "tag": "Adventure, Sci-Fi",
+    "short_description": "1968 • Stanley Kubrick • 149 min • 8.3"
+  },
+  {
+    "name": "Heat",
+    "tag": "Action, Crime, Drama",
+    "short_description": "1995 • Michael Mann • 170 min • 8.2"
+  },
+  {
+    "name": "Into the Wild",
+    "tag": "Adventure, Biography, Drama",
+    "short_description": "2007 • Sean Penn • 148 min • 8.1"
+  },
+  {
+    "name": "Psycho",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "1960 • Alfred Hitchcock • 109 min • 8.5"
+  },
+  {
+    "name": "Jurassic World",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • Colin Trevorrow • 124 min • 7"
+  },
+  {
+    "name": "Kick-Ass",
+    "tag": "Action, Comedy",
+    "short_description": "2010 • Matthew Vaughn • 117 min • 7.7"
+  },
+  {
+    "name": "Independence Day",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1996 • Roland Emmerich • 145 min • 7"
+  },
+  {
+    "name": "Looper",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2012 • Rian Johnson • 113 min • 7.4"
+  },
+  {
+    "name": "Frozen",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2013 • Chris Buck, Jennifer Lee • 102 min • 7.5"
+  },
+  {
+    "name": "Thor: The Dark World",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2013 • Alan Taylor • 112 min • 7"
+  },
+  {
+    "name": "Jaws",
+    "tag": "Adventure, Drama, Thriller",
+    "short_description": "1975 • Steven Spielberg • 124 min • 8"
+  },
+  {
+    "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "tag": "Comedy, Drama",
+    "short_description": "2014 • Alejandro González Iñárritu • 119 min • 7.8"
+  },
+  {
+    "name": "Superbad",
+    "tag": "Comedy",
+    "short_description": "2007 • Greg Mottola • 113 min • 7.6"
+  },
+  {
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "tag": "Comedy, Crime",
+    "short_description": "1998 • Guy Ritchie • 107 min • 8.2"
+  },
+  {
+    "name": "The Matrix Reloaded",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2003 • Lana Wachowski, Lilly Wachowski • 138 min • 7.2"
+  },
+  {
+    "name": "L.A. Confidential",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "1997 • Curtis Hanson • 138 min • 8.3"
+  },
+  {
+    "name": "Spider-Man 2",
+    "tag": "Action, Adventure",
+    "short_description": "2004 • Sam Raimi • 127 min • 7.3"
+  },
+  {
+    "name": "Prisoners",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2013 • Denis Villeneuve • 153 min • 8.1"
+  },
+  {
+    "name": "The Bourne Identity",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2002 • Doug Liman • 119 min • 7.9"
+  },
+  {
+    "name": "21 Jump Street",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2012 • Phil Lord, Christopher Miller • 110 min • 7.2"
+  },
+  {
+    "name": "Juno",
+    "tag": "Comedy, Drama",
+    "short_description": "2007 • Jason Reitman • 96 min • 7.5"
+  },
+  {
+    "name": "X-Men 2",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2003 • Bryan Singer • 134 min • 7.5"
+  },
+  {
+    "name": "Men in Black",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "1997 • Barry Sonnenfeld • 98 min • 7.3"
+  },
+  {
+    "name": "Ocean's Eleven",
+    "tag": "Crime, Thriller",
+    "short_description": "2001 • Steven Soderbergh • 116 min • 7.8"
+  },
+  {
+    "name": "Blood Diamond",
+    "tag": "Adventure, Drama, Thriller",
+    "short_description": "2006 • Edward Zwick • 143 min • 8"
+  },
+  {
+    "name": "Minority Report",
+    "tag": "Action, Adventure, Crime",
+    "short_description": "2002 • Steven Spielberg • 145 min • 7.7"
+  },
+  {
+    "name": "Rise of the Planet of the Apes",
+    "tag": "Action, Drama, Sci-Fi",
+    "short_description": "2011 • Rupert Wyatt • 105 min • 7.6"
+  },
+  {
+    "name": "The Notebook",
+    "tag": "Drama, Romance",
+    "short_description": "2004 • Nick Cassavetes • 123 min • 7.9"
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2002 • Chris Columbus • 161 min • 7.4"
+  },
+  {
+    "name": "Cast Away",
+    "tag": "Adventure, Drama, Romance",
+    "short_description": "2000 • Robert Zemeckis • 143 min • 7.7"
+  },
+  {
+    "name": "Shaun of the Dead",
+    "tag": "Comedy, Horror",
+    "short_description": "2004 • Edgar Wright • 99 min • 8"
+  },
+  {
+    "name": "Inside Out",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2015 • Pete Docter, Ronnie Del Carmen • 95 min • 8.2"
+  },
+  {
+    "name": "Harry Potter and the Goblet of Fire",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2005 • Mike Newell • 157 min • 7.7"
+  },
+  {
+    "name": "Star Trek Into Darkness",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • J.J. Abrams • 132 min • 7.8"
+  },
+  {
+    "name": "Captain America: Civil War",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2016 • Anthony Russo, Joe Russo • 147 min • 7.9"
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2004 • Alfonso Cuarón • 142 min • 7.8"
+  },
+  {
+    "name": "I, Robot",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2004 • Alex Proyas • 115 min • 7.1"
+  },
+  {
+    "name": "Casablanca",
+    "tag": "Drama, Romance, War",
+    "short_description": "1942 • Michael Curtiz • 102 min • 8.5"
+  },
+  {
+    "name": "Toy Story 2",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "1999 • John Lasseter, Ash Brannon, Lee Unkrich • 92 min • 7.9"
+  },
+  {
+    "name": "Oblivion",
+    "tag": "Action, Adventure, Mystery",
+    "short_description": "2013 • Joseph Kosinski • 124 min • 7"
+  },
+  {
+    "name": "Despicable Me",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2010 • Pierre Coffin, Chris Renaud • 95 min • 7.7"
+  },
+  {
+    "name": "Watchmen",
+    "tag": "Action, Drama, Mystery",
+    "short_description": "2009 • Zack Snyder • 162 min • 7.6"
+  },
+  {
+    "name": "Zombieland",
+    "tag": "Adventure, Comedy, Horror",
+    "short_description": "2009 • Ruben Fleischer • 88 min • 7.7"
+  },
+  {
+    "name": "Spider-Man 3",
+    "tag": "Action, Adventure",
+    "short_description": "2007 • Sam Raimi • 139 min • 6.2"
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "tag": "Adventure, Comedy, Fantasy",
+    "short_description": "1975 • Terry Gilliam, Terry Jones • 91 min • 8.3"
+  },
+  {
+    "name": "X-Men: The Last Stand",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2006 • Brett Ratner • 104 min • 6.7"
+  },
+  {
+    "name": "Source Code",
+    "tag": "Mystery, Romance, Sci-Fi",
+    "short_description": "2011 • Duncan Jones • 93 min • 7.5"
+  },
+  {
+    "name": "Rocky",
+    "tag": "Drama, Sport",
+    "short_description": "1976 • John G. Avildsen • 120 min • 8.1"
+  },
+  {
+    "name": "Troy",
+    "tag": "Adventure",
+    "short_description": "2004 • Wolfgang Petersen • 163 min • 7.2"
+  },
+  {
+    "name": "Suicide Squad",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2016 • David Ayer • 123 min • 6.2"
+  },
+  {
+    "name": "Rain Man",
+    "tag": "Drama",
+    "short_description": "1988 • Barry Levinson • 133 min • 8"
+  },
+  {
+    "name": "There Will Be Blood",
+    "tag": "Drama, History",
+    "short_description": "2007 • Paul Thomas Anderson • 158 min • 8.1"
+  },
+  {
+    "name": "Pacific Rim",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • Guillermo del Toro • 131 min • 7"
+  },
+  {
+    "name": "500 Days of Summer",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2009 • Marc Webb • 95 min • 7.7"
+  },
+  {
+    "name": "Pirates of the Caribbean: On Stranger Tides",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2011 • Rob Marshall • 136 min • 6.7"
+  },
+  {
+    "name": "Crazy, Stupid, Love.",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2011 • Glenn Ficarra, John Requa • 118 min • 7.4"
+  },
+  {
+    "name": "The Hangover Part II",
+    "tag": "Comedy, Mystery",
+    "short_description": "2011 • Todd Phillips • 102 min • 6.5"
+  },
+  {
+    "name": "Her",
+    "tag": "Drama, Romance, Sci-Fi",
+    "short_description": "2013 • Spike Jonze • 126 min • 8"
+  },
+  {
+    "name": "X-Men Origins: Wolverine",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2009 • Gavin Hood • 107 min • 6.7"
+  },
+  {
+    "name": "The Hobbit: The Battle of the Five Armies",
+    "tag": "Adventure, Fantasy",
+    "short_description": "2014 • Peter Jackson • 144 min • 7.4"
+  },
+  {
+    "name": "Oldboy",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2003 • Chan-wook Park • 120 min • 8.4"
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2007 • David Yates • 138 min • 7.5"
+  },
+  {
+    "name": "The Great Gatsby",
+    "tag": "Drama, Romance",
+    "short_description": "2013 • Baz Luhrmann • 143 min • 7.3"
+  },
+  {
+    "name": "Children of Men",
+    "tag": "Drama, Sci-Fi, Thriller",
+    "short_description": "2006 • Alfonso Cuarón • 109 min • 7.9"
+  },
+  {
+    "name": "Mission: Impossible - Ghost Protocol",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2011 • Brad Bird • 132 min • 7.4"
+  },
+  {
+    "name": "American Psycho",
+    "tag": "Crime, Drama",
+    "short_description": "2000 • Mary Harron • 102 min • 7.6"
+  },
+  {
+    "name": "The Matrix Revolutions",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2003 • Lana Wachowski, Lilly Wachowski • 129 min • 6.7"
+  },
+  {
+    "name": "American Hustle",
+    "tag": "Crime, Drama",
+    "short_description": "2013 • David O. Russell • 138 min • 7.3"
+  },
+  {
+    "name": "The Butterfly Effect",
+    "tag": "Sci-Fi, Thriller",
+    "short_description": "2004 • Eric Bress, J. Mackye Gruber • 113 min • 7.7"
+  },
+  {
+    "name": "The Perks of Being a Wallflower",
+    "tag": "Drama, Romance",
+    "short_description": "2012 • Stephen Chbosky • 102 min • 8"
+  },
+  {
+    "name": "Edward Scissorhands",
+    "tag": "Drama, Fantasy, Romance",
+    "short_description": "1990 • Tim Burton • 105 min • 7.9"
+  },
+  {
+    "name": "Hot Fuzz",
+    "tag": "Action, Comedy, Mystery",
+    "short_description": "2007 • Edgar Wright • 121 min • 7.9"
+  },
+  {
+    "name": "Crash",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2004 • Paul Haggis • 112 min • 7.8"
+  },
+  {
+    "name": "Little Miss Sunshine",
+    "tag": "Comedy, Drama",
+    "short_description": "2006 • Jonathan Dayton, Valerie Faris • 101 min • 7.8"
+  },
+  {
+    "name": "The Bourne Supremacy",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2004 • Paul Greengrass • 108 min • 7.8"
+  },
+  {
+    "name": "Ant-Man",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2015 • Peyton Reed • 117 min • 7.3"
+  },
+  {
+    "name": "Mr. & Mrs. Smith",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2005 • Doug Liman • 120 min • 6.5"
+  },
+  {
+    "name": "Horrible Bosses",
+    "tag": "Comedy, Crime",
+    "short_description": "2011 • Seth Gordon • 98 min • 6.9"
+  },
+  {
+    "name": "Back to the Future Part II",
+    "tag": "Adventure, Comedy, Sci-Fi",
+    "short_description": "1989 • Robert Zemeckis • 108 min • 7.8"
+  },
+  {
+    "name": "Hancock",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2008 • Peter Berg • 92 min • 6.4"
+  },
+  {
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "tag": "Comedy",
+    "short_description": "1964 • Stanley Kubrick • 95 min • 8.5"
+  },
+  {
+    "name": "Big Fish",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2003 • Tim Burton • 125 min • 8"
+  },
+  {
+    "name": "The Fifth Element",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1997 • Luc Besson • 126 min • 7.7"
+  },
+  {
+    "name": "Divergent",
+    "tag": "Adventure, Mystery, Sci-Fi",
+    "short_description": "2014 • Neil Burger • 139 min • 6.7"
+  },
+  {
+    "name": "Twilight",
+    "tag": "Drama, Fantasy, Romance",
+    "short_description": "2008 • Catherine Hardwicke • 122 min • 5.2"
+  },
+  {
+    "name": "The Pursuit of Happyness",
+    "tag": "Biography, Drama",
+    "short_description": "2006 • Gabriele Muccino • 117 min • 8"
+  },
+  {
+    "name": "Elysium",
+    "tag": "Action, Drama, Sci-Fi",
+    "short_description": "2013 • Neill Blomkamp • 109 min • 6.6"
+  },
+  {
+    "name": "Casino",
+    "tag": "Crime, Drama",
+    "short_description": "1995 • Martin Scorsese • 178 min • 8.2"
+  },
+  {
+    "name": "Sherlock Holmes: A Game of Shadows",
+    "tag": "Action, Adventure, Crime",
+    "short_description": "2011 • Guy Ritchie • 129 min • 7.5"
+  },
+  {
+    "name": "The Wolverine",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • James Mangold • 126 min • 6.7"
+  },
+  {
+    "name": "Warrior",
+    "tag": "Action, Drama, Sport",
+    "short_description": "2011 • Gavin O'Connor • 140 min • 8.2"
+  },
+  {
+    "name": "Mystic River",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2003 • Clint Eastwood • 138 min • 8"
+  },
+  {
+    "name": "American Sniper",
+    "tag": "Action, Biography, Drama",
+    "short_description": "2014 • Clint Eastwood • 133 min • 7.3"
+  },
+  {
+    "name": "Lucy",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2014 • Luc Besson • 89 min • 6.4"
+  },
+  {
+    "name": "Indiana Jones and the Temple of Doom",
+    "tag": "Action, Adventure",
+    "short_description": "1984 • Steven Spielberg • 118 min • 7.6"
+  },
+  {
+    "name": "Dallas Buyers Club",
+    "tag": "Biography, Drama",
+    "short_description": "2013 • Jean-Marc Vallée • 117 min • 8"
+  },
+  {
+    "name": "The Hurt Locker",
+    "tag": "Drama, History, Thriller",
+    "short_description": "2008 • Kathryn Bigelow • 131 min • 7.6"
+  },
+  {
+    "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2008 • Steven Spielberg • 122 min • 6.2"
+  },
+  {
+    "name": "War of the Worlds",
+    "tag": "Adventure, Sci-Fi, Thriller",
+    "short_description": "2005 • Steven Spielberg • 116 min • 6.5"
+  },
+  {
+    "name": "Harry Potter and the Half-Blood Prince",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2009 • David Yates • 153 min • 7.5"
+  },
+  {
+    "name": "The Day After Tomorrow",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2004 • Roland Emmerich • 124 min • 6.4"
+  },
+  {
+    "name": "Arrival",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2016 • Denis Villeneuve • 116 min • 8"
+  },
+  {
+    "name": "The Girl with the Dragon Tattoo",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2011 • David Fincher • 158 min • 7.8"
+  },
+  {
+    "name": "Quantum of Solace",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2008 • Marc Forster • 106 min • 6.6"
+  },
+  {
+    "name": "Ice Age",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2002 • Chris Wedge, Carlos Saldanha • 81 min • 7.6"
+  },
+  {
+    "name": "Live Free or Die Hard",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2007 • Len Wiseman • 128 min • 7.2"
+  },
+  {
+    "name": "Captain Phillips",
+    "tag": "Biography, Drama, Thriller",
+    "short_description": "2013 • Paul Greengrass • 134 min • 7.8"
+  },
+  {
+    "name": "The Hateful Eight",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2015 • Quentin Tarantino • 187 min • 7.8"
+  },
+  {
+    "name": "Ex Machina",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2014 • Alex Garland • 108 min • 7.7"
+  },
+  {
+    "name": "Charlie and the Chocolate Factory",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "2005 • Tim Burton • 115 min • 6.7"
+  },
+  {
+    "name": "The Incredible Hulk",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2008 • Louis Leterrier • 112 min • 6.8"
+  },
+  {
+    "name": "The Help",
+    "tag": "Drama",
+    "short_description": "2011 • Tate Taylor • 146 min • 8.1"
+  },
+  {
+    "name": "The Amazing Spider-Man 2",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Marc Webb • 142 min • 6.7"
+  },
+  {
+    "name": "Home Alone",
+    "tag": "Comedy, Family",
+    "short_description": "1990 • Chris Columbus • 103 min • 7.5"
+  },
+  {
+    "name": "Love Actually",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2003 • Richard Curtis • 135 min • 7.7"
+  },
+  {
+    "name": "Rear Window",
+    "tag": "Mystery, Thriller",
+    "short_description": "1954 • Alfred Hitchcock • 112 min • 8.5"
+  },
+  {
+    "name": "Rush",
+    "tag": "Action, Biography, Drama",
+    "short_description": "2013 • Ron Howard • 123 min • 8.1"
+  },
+  {
+    "name": "Lost in Translation",
+    "tag": "Drama",
+    "short_description": "2003 • Sofia Coppola • 102 min • 7.8"
+  },
+  {
+    "name": "Transformers: Dark of the Moon",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2011 • Michael Bay • 154 min • 6.3"
+  },
+  {
+    "name": "The Da Vinci Code",
+    "tag": "Mystery, Thriller",
+    "short_description": "2006 • Ron Howard • 149 min • 6.6"
+  },
+  {
+    "name": "Armageddon",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1998 • Michael Bay • 151 min • 6.6"
+  },
+  {
+    "name": "Transformers: Revenge of the Fallen",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2009 • Michael Bay • 150 min • 6"
+  },
+  {
+    "name": "Dawn of the Planet of the Apes",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2014 • Matt Reeves • 130 min • 7.6"
+  },
+  {
+    "name": "American Gangster",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2007 • Ridley Scott • 157 min • 7.8"
+  },
+  {
+    "name": "The Maze Runner",
+    "tag": "Action, Mystery, Sci-Fi",
+    "short_description": "2014 • Wes Ball • 113 min • 6.8"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "tag": "Animation, Family, Fantasy",
+    "short_description": "1991 • Gary Trousdale, Kirk Wise • 84 min • 8"
+  },
+  {
+    "name": "King Kong",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2005 • Peter Jackson • 187 min • 7.2"
+  },
+  {
+    "name": "We're the Millers",
+    "tag": "Comedy, Crime",
+    "short_description": "2013 • Rawson Marshall Thurber • 110 min • 7"
+  },
+  {
+    "name": "Shrek 2",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2004 • Andrew Adamson, Kelly Asbury, Conrad Vernon • 93 min • 7.2"
+  },
+  {
+    "name": "Gangs of New York",
+    "tag": "Crime, Drama",
+    "short_description": "2002 • Martin Scorsese • 167 min • 7.5"
+  },
+  {
+    "name": "Fury",
+    "tag": "Action, Drama, War",
+    "short_description": "2014 • David Ayer • 134 min • 7.6"
+  },
+  {
+    "name": "The Last Samurai",
+    "tag": "Action, Drama, History",
+    "short_description": "2003 • Edward Zwick • 154 min • 7.7"
+  },
+  {
+    "name": "Nightcrawler",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2014 • Dan Gilroy • 118 min • 7.9"
+  },
+  {
+    "name": "The Hunger Games: Mockingjay - Part 1",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Francis Lawrence • 123 min • 6.7"
+  },
+  {
+    "name": "The Conjuring",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2013 • James Wan • 112 min • 7.5"
+  },
+  {
+    "name": "Zodiac",
+    "tag": "Crime, Drama, History",
+    "short_description": "2007 • David Fincher • 157 min • 7.7"
+  },
+  {
+    "name": "Kung Fu Panda",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2008 • Mark Osborne, John Stevenson • 92 min • 7.6"
+  },
+  {
+    "name": "This Is the End",
+    "tag": "Comedy, Fantasy",
+    "short_description": "2013 • Evan Goldberg, Seth Rogen • 107 min • 6.6"
+  },
+  {
+    "name": "The 40-Year-Old Virgin",
+    "tag": "Comedy, Romance",
+    "short_description": "2005 • Judd Apatow • 116 min • 7.1"
+  },
+  {
+    "name": "American Pie",
+    "tag": "Comedy",
+    "short_description": "1999 • Paul Weitz, Chris Weitz • 95 min • 7"
+  },
+  {
+    "name": "Alice in Wonderland",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2010 • Tim Burton • 108 min • 6.5"
+  },
+  {
+    "name": "The Terminal",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2004 • Steven Spielberg • 128 min • 7.3"
+  },
+  {
+    "name": "Training Day",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2001 • Antoine Fuqua • 122 min • 7.7"
+  },
+  {
+    "name": "In Bruges",
+    "tag": "Comedy, Crime, Drama",
+    "short_description": "2008 • Martin McDonagh • 107 min • 7.9"
+  },
+  {
+    "name": "Tropic Thunder",
+    "tag": "Action, Comedy",
+    "short_description": "2008 • Ben Stiller • 107 min • 7"
+  },
+  {
+    "name": "Midnight in Paris",
+    "tag": "Comedy, Fantasy, Romance",
+    "short_description": "2011 • Woody Allen • 94 min • 7.7"
+  },
+  {
+    "name": "Terminator 3: Rise of the Machines",
+    "tag": "Action, Adventure, Romance",
+    "short_description": "2003 • Jonathan Mostow • 109 min • 6.3"
+  },
+  {
+    "name": "In Time",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2011 • Andrew Niccol • 109 min • 6.7"
+  },
+  {
+    "name": "Tangled",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2010 • Nathan Greno, Byron Howard • 100 min • 7.8"
+  },
+  {
+    "name": "Citizen Kane",
+    "tag": "Drama, Mystery",
+    "short_description": "1941 • Orson Welles • 119 min • 8.4"
+  },
+  {
+    "name": "Mission: Impossible",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1996 • Brian De Palma • 110 min • 7.1"
+  },
+  {
+    "name": "Saw",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2004 • James Wan • 103 min • 7.7"
+  },
+  {
+    "name": "Logan",
+    "tag": "Action, Drama, Sci-Fi",
+    "short_description": "2017 • James Mangold • 137 min • 8.3"
+  },
+  {
+    "name": "Cloverfield",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2008 • Matt Reeves • 85 min • 7"
+  },
+  {
+    "name": "28 Days Later...",
+    "tag": "Drama, Horror, Sci-Fi",
+    "short_description": "2002 • Danny Boyle • 113 min • 7.6"
+  },
+  {
+    "name": "Bruce Almighty",
+    "tag": "Comedy, Drama, Fantasy",
+    "short_description": "2003 • Tom Shadyac • 101 min • 6.7"
+  },
+  {
+    "name": "Wanted",
+    "tag": "Action, Crime, Fantasy",
+    "short_description": "2008 • Timur Bekmambetov • 110 min • 6.7"
+  },
+  {
+    "name": "The Princess Bride",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "1987 • Rob Reiner • 98 min • 8.1"
+  },
+  {
+    "name": "Die Hard with a Vengeance",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1995 • John McTiernan • 128 min • 7.6"
+  },
+  {
+    "name": "Big Hero 6",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2014 • Don Hall, Chris Williams • 102 min • 7.8"
+  },
+  {
+    "name": "Platoon",
+    "tag": "Drama, War",
+    "short_description": "1986 • Oliver Stone • 120 min • 8.1"
+  },
+  {
+    "name": "The Illusionist",
+    "tag": "Drama, Mystery, Romance",
+    "short_description": "2006 • Neil Burger • 110 min • 7.6"
+  },
+  {
+    "name": "The Wizard of Oz",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "1939 • Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor • 102 min • 8.1"
+  },
+  {
+    "name": "Spectre",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2015 • Sam Mendes • 148 min • 6.8"
+  },
+  {
+    "name": "Knocked Up",
+    "tag": "Comedy, Romance",
+    "short_description": "2007 • Judd Apatow • 129 min • 7"
+  },
+  {
+    "name": "Back to the Future Part III",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "1990 • Robert Zemeckis • 118 min • 7.4"
+  },
+  {
+    "name": "Black Hawk Down",
+    "tag": "Drama, History, War",
+    "short_description": "2001 • Ridley Scott • 144 min • 7.7"
+  },
+  {
+    "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "tag": "Comedy",
+    "short_description": "2006 • Larry Charles • 84 min • 7.3"
+  },
+  {
+    "name": "Despicable Me 2",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2013 • Pierre Coffin, Chris Renaud • 98 min • 7.4"
+  },
+  {
+    "name": "Predator",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "1987 • John McTiernan • 107 min • 7.8"
+  },
+  {
+    "name": "Collateral",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2004 • Michael Mann • 115 min • 7.6"
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2005 • Andrew Adamson • 143 min • 6.9"
+  },
+  {
+    "name": "Zootopia",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2016 • Jared Bush, Byron Howard, Rich Moore • 108 min • 8.1"
+  },
+  {
+    "name": "Furious 7",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2015 • James Wan • 137 min • 7.2"
+  },
+  {
+    "name": "The Devil Wears Prada",
+    "tag": "Comedy, Drama",
+    "short_description": "2006 • David Frankel • 109 min • 6.8"
+  },
+  {
+    "name": "The Theory of Everything",
+    "tag": "Biography, Drama, Romance",
+    "short_description": "2014 • James Marsh • 123 min • 7.7"
+  },
+  {
+    "name": "Dumb and Dumber",
+    "tag": "Comedy",
+    "short_description": "1994 • Peter Farrelly, Bobby Farrelly • 107 min • 7.3"
+  },
+  {
+    "name": "Fast Five",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2011 • Justin Lin • 131 min • 7.3"
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "tag": "Drama, Family, Fantasy",
+    "short_description": "1946 • Frank Capra • 130 min • 8.6"
+  },
+  {
+    "name": "Ocean's Twelve",
+    "tag": "Crime, Thriller",
+    "short_description": "2004 • Steven Soderbergh • 125 min • 6.5"
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "tag": "Family, Sci-Fi",
+    "short_description": "1982 • Steven Spielberg • 115 min • 7.9"
+  },
+  {
+    "name": "Super 8",
+    "tag": "Mystery, Sci-Fi, Thriller",
+    "short_description": "2011 • J.J. Abrams • 112 min • 7.1"
+  },
+  {
+    "name": "Cloud Atlas",
+    "tag": "Drama, Sci-Fi",
+    "short_description": "2012 • Tom Tykwer, Lana Wachowski, Lilly Wachowski • 172 min • 7.5"
+  },
+  {
+    "name": "The Exorcist",
+    "tag": "Horror",
+    "short_description": "1973 • William Friedkin • 122 min • 8"
+  },
+  {
+    "name": "The Machinist",
+    "tag": "Drama, Thriller",
+    "short_description": "2004 • Brad Anderson • 101 min • 7.7"
+  },
+  {
+    "name": "2012",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2009 • Roland Emmerich • 158 min • 5.8"
+  },
+  {
+    "name": "Moneyball",
+    "tag": "Biography, Drama, Sport",
+    "short_description": "2011 • Bennett Miller • 133 min • 7.6"
+  },
+  {
+    "name": "The Lost World: Jurassic Park",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1997 • Steven Spielberg • 129 min • 6.5"
+  },
+  {
+    "name": "The Italian Job",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2003 • F. Gary Gray • 111 min • 7"
+  },
+  {
+    "name": "Terminator Salvation",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2009 • McG • 115 min • 6.6"
+  },
+  {
+    "name": "Unforgiven",
+    "tag": "Drama, Western",
+    "short_description": "1992 • Clint Eastwood • 131 min • 8.2"
+  },
+  {
+    "name": "Face/Off",
+    "tag": "Action, Crime, Sci-Fi",
+    "short_description": "1997 • John Woo • 138 min • 7.3"
+  },
+  {
+    "name": "The Cabin in the Woods",
+    "tag": "Horror",
+    "short_description": "2012 • Drew Goddard • 95 min • 7"
+  },
+  {
+    "name": "Easy A",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2010 • Will Gluck • 92 min • 7.1"
+  },
+  {
+    "name": "The Town",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2010 • Ben Affleck • 125 min • 7.6"
+  },
+  {
+    "name": "Dead Poets Society",
+    "tag": "Comedy, Drama",
+    "short_description": "1989 • Peter Weir • 128 min • 8"
+  },
+  {
+    "name": "Brave",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2012 • Mark Andrews, Brenda Chapman, Steve Purcell • 93 min • 7.2"
+  },
+  {
+    "name": "127 Hours",
+    "tag": "Adventure, Biography, Drama",
+    "short_description": "2010 • Danny Boyle • 94 min • 7.6"
+  },
+  {
+    "name": "Amadeus",
+    "tag": "Biography, Drama, History",
+    "short_description": "1984 • Milos Forman • 160 min • 8.3"
+  },
+  {
+    "name": "Scott Pilgrim vs. the World",
+    "tag": "Action, Comedy, Fantasy",
+    "short_description": "2010 • Edgar Wright • 112 min • 7.5"
+  },
+  {
+    "name": "Wreck-It Ralph",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2012 • Rich Moore • 101 min • 7.8"
+  },
+  {
+    "name": "Stand by Me",
+    "tag": "Adventure, Drama",
+    "short_description": "1986 • Rob Reiner • 89 min • 8.1"
+  },
+  {
+    "name": "Life of Brian",
+    "tag": "Comedy",
+    "short_description": "1979 • Terry Jones • 94 min • 8.1"
+  },
+  {
+    "name": "The Fighter",
+    "tag": "Action, Biography, Drama",
+    "short_description": "2010 • David O. Russell • 116 min • 7.8"
+  },
+  {
+    "name": "The Fast and the Furious",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2001 • Rob Cohen • 106 min • 6.7"
+  },
+  {
+    "name": "The Godfather: Part III",
+    "tag": "Crime, Drama",
+    "short_description": "1990 • Francis Ford Coppola • 162 min • 7.6"
+  },
+  {
+    "name": "Signs",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2002 • M. Night Shyamalan • 106 min • 6.7"
+  },
+  {
+    "name": "Boyhood",
+    "tag": "Drama",
+    "short_description": "2014 • Richard Linklater • 165 min • 7.9"
+  },
+  {
+    "name": "Friends with Benefits",
+    "tag": "Comedy, Romance",
+    "short_description": "2011 • Will Gluck • 109 min • 6.6"
+  },
+  {
+    "name": "Madagascar",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2005 • Eric Darnell, Tom McGrath • 86 min • 6.9"
+  },
+  {
+    "name": "Inside Man",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2006 • Spike Lee • 129 min • 7.6"
+  },
+  {
+    "name": "The Others",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2001 • Alejandro Amenábar • 104 min • 7.6"
+  },
+  {
+    "name": "Yes Man",
+    "tag": "Comedy, Romance",
+    "short_description": "2008 • Peyton Reed • 104 min • 6.8"
+  },
+  {
+    "name": "X-Men: Apocalypse",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2016 • Bryan Singer • 144 min • 7.1"
+  },
+  {
+    "name": "Batman",
+    "tag": "Action, Adventure",
+    "short_description": "1989 • Tim Burton • 126 min • 7.6"
+  },
+  {
+    "name": "Die Hard 2",
+    "tag": "Action, Thriller",
+    "short_description": "1990 • Renny Harlin • 124 min • 7.1"
+  },
+  {
+    "name": "Cars",
+    "tag": "Animation, Comedy, Family",
+    "short_description": "2006 • John Lasseter, Joe Ranft • 117 min • 7.1"
+  },
+  {
+    "name": "The Expendables",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2010 • Sylvester Stallone • 103 min • 6.5"
+  },
+  {
+    "name": "Due Date",
+    "tag": "Comedy, Drama",
+    "short_description": "2010 • Todd Phillips • 95 min • 6.6"
+  },
+  {
+    "name": "22 Jump Street",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2014 • Phil Lord, Christopher Miller • 112 min • 7.1"
+  },
+  {
+    "name": "50/50",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2011 • Jonathan Levine • 100 min • 7.7"
+  },
+  {
+    "name": "Anchorman: The Legend of Ron Burgundy",
+    "tag": "Comedy",
+    "short_description": "2004 • Adam McKay • 94 min • 7.2"
+  },
+  {
+    "name": "The Mask",
+    "tag": "Comedy, Family, Fantasy",
+    "short_description": "1994 • Chuck Russell • 101 min • 6.9"
+  },
+  {
+    "name": "Hotel Rwanda",
+    "tag": "Biography, Drama, History",
+    "short_description": "2004 • Terry George • 121 min • 8.1"
+  },
+  {
+    "name": "The Thing",
+    "tag": "Horror, Mystery, Sci-Fi",
+    "short_description": "1982 • John Carpenter • 109 min • 8.2"
+  },
+  {
+    "name": "Aladdin",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "1992 • Ron Clements, John Musker • 90 min • 8"
+  },
+  {
+    "name": "The Lives of Others",
+    "tag": "Drama, Thriller",
+    "short_description": "2006 • Florian Henckel von Donnersmarck • 137 min • 8.5"
+  },
+  {
+    "name": "Men in Black II",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2002 • Barry Sonnenfeld • 88 min • 6.1"
+  },
+  {
+    "name": "Man on Fire",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2004 • Tony Scott • 146 min • 7.7"
+  },
+  {
+    "name": "Up in the Air",
+    "tag": "Drama, Romance",
+    "short_description": "2009 • Jason Reitman • 109 min • 7.4"
+  },
+  {
+    "name": "The Aviator",
+    "tag": "Biography, Drama, History",
+    "short_description": "2004 • Martin Scorsese • 170 min • 7.5"
+  },
+  {
+    "name": "50 First Dates",
+    "tag": "Comedy, Romance",
+    "short_description": "2004 • Peter Segal • 99 min • 6.8"
+  },
+  {
+    "name": "The Game",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1997 • David Fincher • 129 min • 7.8"
+  },
+  {
+    "name": "Men in Black 3",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2012 • Barry Sonnenfeld • 106 min • 6.8"
+  },
+  {
+    "name": "Moon",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2009 • Duncan Jones • 97 min • 7.9"
+  },
+  {
+    "name": "Flight",
+    "tag": "Drama, Thriller",
+    "short_description": "2012 • Robert Zemeckis • 138 min • 7.3"
+  },
+  {
+    "name": "The Devil's Advocate",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1997 • Taylor Hackford • 144 min • 7.5"
+  },
+  {
+    "name": "Speed",
+    "tag": "Action, Adventure, Crime",
+    "short_description": "1994 • Jan de Bont • 116 min • 7.2"
+  },
+  {
+    "name": "TRON: Legacy",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2010 • Joseph Kosinski • 125 min • 6.8"
+  },
+  {
+    "name": "Unbreakable",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2000 • M. Night Shyamalan • 106 min • 7.2"
+  },
+  {
+    "name": "Spotlight",
+    "tag": "Crime, Drama, History",
+    "short_description": "2015 • Tom McCarthy • 128 min • 8.1"
+  },
+  {
+    "name": "Brokeback Mountain",
+    "tag": "Drama, Romance",
+    "short_description": "2005 • Ang Lee • 134 min • 7.7"
+  },
+  {
+    "name": "The Island",
+    "tag": "Action, Adventure, Romance",
+    "short_description": "2005 • Michael Bay • 136 min • 6.9"
+  },
+  {
+    "name": "Lucky Number Slevin",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2006 • Paul McGuigan • 110 min • 7.8"
+  },
+  {
+    "name": "Vertigo",
+    "tag": "Mystery, Romance, Thriller",
+    "short_description": "1958 • Alfred Hitchcock • 128 min • 8.4"
+  },
+  {
+    "name": "The Fault in Our Stars",
+    "tag": "Drama, Romance",
+    "short_description": "2014 • Josh Boone • 126 min • 7.8"
+  },
+  {
+    "name": "La La Land",
+    "tag": "Comedy, Drama, Music",
+    "short_description": "2016 • Damien Chazelle • 128 min • 8.2"
+  },
+  {
+    "name": "Meet the Parents",
+    "tag": "Comedy, Romance",
+    "short_description": "2000 • Jay Roach • 108 min • 7"
+  },
+  {
+    "name": "Mission: Impossible III",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2006 • J.J. Abrams • 126 min • 6.9"
+  },
+  {
+    "name": "Maleficent",
+    "tag": "Action, Adventure, Family",
+    "short_description": "2014 • Robert Stromberg • 97 min • 7"
+  },
+  {
+    "name": "The Rock",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1996 • Michael Bay • 136 min • 7.4"
+  },
+  {
+    "name": "Ocean's Thirteen",
+    "tag": "Crime, Thriller",
+    "short_description": "2007 • Steven Soderbergh • 122 min • 6.9"
+  },
+  {
+    "name": "The Simpsons Movie",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2007 • David Silverman • 87 min • 7.4"
+  },
+  {
+    "name": "Pineapple Express",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2008 • David Gordon Green • 111 min • 7"
+  },
+  {
+    "name": "The Lego Movie",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2014 • Phil Lord, Christopher Miller • 100 min • 7.8"
+  },
+  {
+    "name": "Pearl Harbor",
+    "tag": "Action, Drama, History",
+    "short_description": "2001 • Michael Bay • 183 min • 6.1"
+  },
+  {
+    "name": "Shooter",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2007 • Antoine Fuqua • 124 min • 7.2"
+  },
+  {
+    "name": "Being John Malkovich",
+    "tag": "Comedy, Drama, Fantasy",
+    "short_description": "1999 • Spike Jonze • 112 min • 7.8"
+  },
+  {
+    "name": "Downfall",
+    "tag": "Biography, Drama, History",
+    "short_description": "2004 • Oliver Hirschbiegel • 156 min • 8.3"
+  },
+  {
+    "name": "Real Steel",
+    "tag": "Action, Drama, Family",
+    "short_description": "2011 • Shawn Levy • 127 min • 7.1"
+  },
+  {
+    "name": "Mean Girls",
+    "tag": "Comedy",
+    "short_description": "2004 • Mark Waters • 97 min • 7"
+  },
+  {
+    "name": "National Treasure",
+    "tag": "Action, Adventure, Family",
+    "short_description": "2004 • Jon Turteltaub • 131 min • 6.9"
+  },
+  {
+    "name": "The Interview",
+    "tag": "Comedy",
+    "short_description": "2014 • Evan Goldberg, Seth Rogen • 112 min • 6.6"
+  },
+  {
+    "name": "Burn After Reading",
+    "tag": "Comedy, Drama",
+    "short_description": "2008 • Ethan Coen, Joel Coen • 96 min • 7"
+  },
+  {
+    "name": "Hugo",
+    "tag": "Adventure, Drama, Family",
+    "short_description": "2011 • Martin Scorsese • 126 min • 7.5"
+  },
+  {
+    "name": "The Wrestler",
+    "tag": "Drama, Sport",
+    "short_description": "2008 • Darren Aronofsky • 109 min • 7.9"
+  },
+  {
+    "name": "The Mummy Returns",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2001 • Stephen Sommers • 130 min • 6.3"
+  },
+  {
+    "name": "Transformers: Age of Extinction",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2014 • Michael Bay • 165 min • 5.7"
+  },
+  {
+    "name": "Click",
+    "tag": "Comedy, Drama, Fantasy",
+    "short_description": "2006 • Frank Coraci • 107 min • 6.4"
+  },
+  {
+    "name": "Mission: Impossible - Rogue Nation",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2015 • Christopher McQuarrie • 131 min • 7.4"
+  },
+  {
+    "name": "Lord of War",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2005 • Andrew Niccol • 122 min • 7.6"
+  },
+  {
+    "name": "The Expendables 2",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2012 • Simon West • 103 min • 6.6"
+  },
+  {
+    "name": "Les Misérables",
+    "tag": "Drama, Musical, Romance",
+    "short_description": "2012 • Tom Hooper • 158 min • 7.6"
+  },
+  {
+    "name": "Mulholland Drive",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2001 • David Lynch • 147 min • 8"
+  },
+  {
+    "name": "There's Something About Mary",
+    "tag": "Comedy, Romance",
+    "short_description": "1998 • Bobby Farrelly, Peter Farrelly • 119 min • 7.1"
+  },
+  {
+    "name": "Hellboy",
+    "tag": "Action, Fantasy, Horror",
+    "short_description": "2004 • Guillermo del Toro • 122 min • 6.8"
+  },
+  {
+    "name": "Salt",
+    "tag": "Action, Crime, Mystery",
+    "short_description": "2010 • Phillip Noyce • 100 min • 6.4"
+  },
+  {
+    "name": "Hitch",
+    "tag": "Comedy, Romance",
+    "short_description": "2005 • Andy Tennant • 118 min • 6.6"
+  },
+  {
+    "name": "Moonrise Kingdom",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2012 • Wes Anderson • 94 min • 7.8"
+  },
+  {
+    "name": "Mission: Impossible II",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2000 • John Woo • 123 min • 6.1"
+  },
+  {
+    "name": "True Grit",
+    "tag": "Adventure, Drama, Western",
+    "short_description": "2010 • Ethan Coen, Joel Coen • 110 min • 7.6"
+  },
+  {
+    "name": "Babel",
+    "tag": "Drama",
+    "short_description": "2006 • Alejandro González Iñárritu • 143 min • 7.5"
+  },
+  {
+    "name": "Total Recall",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "1990 • Paul Verhoeven • 113 min • 7.5"
+  },
+  {
+    "name": "Jackie Brown",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1997 • Quentin Tarantino • 154 min • 7.5"
+  },
+  {
+    "name": "Jumper",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2008 • Doug Liman • 88 min • 6.1"
+  },
+  {
+    "name": "Night at the Museum",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "2006 • Shawn Levy • 108 min • 6.4"
+  },
+  {
+    "name": "Monsters University",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2013 • Dan Scanlon • 104 min • 7.3"
+  },
+  {
+    "name": "Serenity",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2005 • Joss Whedon • 119 min • 7.9"
+  },
+  {
+    "name": "Interview with the Vampire: The Vampire Chronicles",
+    "tag": "Drama, Fantasy, Horror",
+    "short_description": "1994 • Neil Jordan • 123 min • 7.6"
+  },
+  {
+    "name": "Jack Reacher",
+    "tag": "Action, Crime, Mystery",
+    "short_description": "2012 • Christopher McQuarrie • 130 min • 7"
+  },
+  {
+    "name": "A.I. Artificial Intelligence",
+    "tag": "Adventure, Drama, Sci-Fi",
+    "short_description": "2001 • Steven Spielberg • 146 min • 7.1"
+  },
+  {
+    "name": "RED",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2010 • Robert Schwentke • 111 min • 7.1"
+  },
+  {
+    "name": "Taken 2",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2012 • Olivier Megaton • 92 min • 6.3"
+  },
+  {
+    "name": "Raging Bull",
+    "tag": "Biography, Drama, Sport",
+    "short_description": "1980 • Martin Scorsese • 129 min • 8.2"
+  },
+  {
+    "name": "Magnolia",
+    "tag": "Drama",
+    "short_description": "1999 • Paul Thomas Anderson • 188 min • 8"
+  },
+  {
+    "name": "The Equalizer",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2014 • Antoine Fuqua • 132 min • 7.2"
+  },
+  {
+    "name": "The Secret Life of Walter Mitty",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2013 • Ben Stiller • 114 min • 7.3"
+  },
+  {
+    "name": "The Transporter",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2002 • Louis Leterrier, Corey Yuen • 92 min • 6.8"
+  },
+  {
+    "name": "3:10 to Yuma",
+    "tag": "Adventure, Crime, Drama",
+    "short_description": "2007 • James Mangold • 122 min • 7.7"
+  },
+  {
+    "name": "Apocalypto",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2006 • Mel Gibson • 139 min • 7.8"
+  },
+  {
+    "name": "The Big Short",
+    "tag": "Biography, Comedy, Drama",
+    "short_description": "2015 • Adam McKay • 130 min • 7.8"
+  },
+  {
+    "name": "The Deer Hunter",
+    "tag": "Drama, War",
+    "short_description": "1978 • Michael Cimino • 183 min • 8.2"
+  },
+  {
+    "name": "Superman Returns",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2006 • Bryan Singer • 154 min • 6.1"
+  },
+  {
+    "name": "Seven Samurai",
+    "tag": "Adventure, Drama",
+    "short_description": "1954 • Akira Kurosawa • 207 min • 8.7"
+  },
+  {
+    "name": "Seven Pounds",
+    "tag": "Drama, Romance",
+    "short_description": "2008 • Gabriele Muccino • 123 min • 7.7"
+  },
+  {
+    "name": "The Bourne Legacy",
+    "tag": "Action, Adventure, Mystery",
+    "short_description": "2012 • Tony Gilroy • 135 min • 6.7"
+  },
+  {
+    "name": "Princess Mononoke",
+    "tag": "Animation, Adventure, Fantasy",
+    "short_description": "1997 • Hayao Miyazaki • 134 min • 8.4"
+  },
+  {
+    "name": "Sicario",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2015 • Denis Villeneuve • 121 min • 7.6"
+  },
+  {
+    "name": "Fifty Shades of Grey",
+    "tag": "Drama, Romance, Thriller",
+    "short_description": "2015 • Sam Taylor-Johnson • 125 min • 4.1"
+  },
+  {
+    "name": "The Proposal",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2009 • Anne Fletcher • 108 min • 6.7"
+  },
+  {
+    "name": "3 Idiots",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2009 • Rajkumar Hirani • 170 min • 8.4"
+  },
+  {
+    "name": "The Book of Eli",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2010 • Albert Hughes, Allen Hughes • 118 min • 6.9"
+  },
+  {
+    "name": "Eyes Wide Shut",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1999 • Stanley Kubrick • 159 min • 7.3"
+  },
+  {
+    "name": "Public Enemies",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2009 • Michael Mann • 140 min • 7"
+  },
+  {
+    "name": "Snow White and the Huntsman",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2012 • Rupert Sanders • 127 min • 6.1"
+  },
+  {
+    "name": "10 Things I Hate About You",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1999 • Gil Junger • 97 min • 7.2"
+  },
+  {
+    "name": "Once Upon a Time in America",
+    "tag": "Crime, Drama",
+    "short_description": "1984 • Sergio Leone • 229 min • 8.4"
+  },
+  {
+    "name": "How to Train Your Dragon 2",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2014 • Dean DeBlois • 102 min • 7.9"
+  },
+  {
+    "name": "300: Rise of an Empire",
+    "tag": "Action, Fantasy",
+    "short_description": "2014 • Noam Murro • 102 min • 6.2"
+  },
+  {
+    "name": "Clash of the Titans",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2010 • Louis Leterrier • 106 min • 5.8"
+  },
+  {
+    "name": "Neighbors",
+    "tag": "Comedy",
+    "short_description": "2014 • Nicholas Stoller • 97 min • 6.3"
+  },
+  {
+    "name": "The Nightmare Before Christmas",
+    "tag": "Animation, Family, Fantasy",
+    "short_description": "1993 • Henry Selick • 76 min • 8"
+  },
+  {
+    "name": "O Brother, Where Art Thou?",
+    "tag": "Adventure, Comedy, Crime",
+    "short_description": "2000 • Joel Coen, Ethan Coen • 107 min • 7.8"
+  },
+  {
+    "name": "The Blind Side",
+    "tag": "Biography, Drama, Sport",
+    "short_description": "2009 • John Lee Hancock • 129 min • 7.7"
+  },
+  {
+    "name": "Howl's Moving Castle",
+    "tag": "Animation, Adventure, Family",
+    "short_description": "2004 • Hayao Miyazaki • 119 min • 8.2"
+  },
+  {
+    "name": "Con Air",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "1997 • Simon West • 115 min • 6.8"
+  },
+  {
+    "name": "Donnie Brasco",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "1997 • Mike Newell • 127 min • 7.8"
+  },
+  {
+    "name": "North by Northwest",
+    "tag": "Action, Adventure, Mystery",
+    "short_description": "1959 • Alfred Hitchcock • 136 min • 8.4"
+  },
+  {
+    "name": "As Good as It Gets",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1997 • James L. Brooks • 139 min • 7.7"
+  },
+  {
+    "name": "Prince of Persia: The Sands of Time",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2010 • Mike Newell • 116 min • 6.6"
+  },
+  {
+    "name": "Jurassic Park III",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2001 • Joe Johnston • 92 min • 5.9"
+  },
+  {
+    "name": "Once Upon a Time in the West",
+    "tag": "Western",
+    "short_description": "1968 • Sergio Leone • 164 min • 8.6"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "tag": "Crime, Drama",
+    "short_description": "1962 • Robert Mulligan • 129 min • 8.3"
+  },
+  {
+    "name": "Liar Liar",
+    "tag": "Comedy, Fantasy",
+    "short_description": "1997 • Tom Shadyac • 86 min • 6.8"
+  },
+  {
+    "name": "Moulin Rouge!",
+    "tag": "Drama, Musical, Romance",
+    "short_description": "2001 • Baz Luhrmann • 127 min • 7.6"
+  },
+  {
+    "name": "Scream",
+    "tag": "Horror, Mystery",
+    "short_description": "1996 • Wes Craven • 111 min • 7.2"
+  },
+  {
+    "name": "The Mist",
+    "tag": "Horror",
+    "short_description": "2007 • Frank Darabont • 126 min • 7.2"
+  },
+  {
+    "name": "Gattaca",
+    "tag": "Drama, Sci-Fi, Thriller",
+    "short_description": "1997 • Andrew Niccol • 106 min • 7.8"
+  },
+  {
+    "name": "From Dusk Till Dawn",
+    "tag": "Action, Crime, Horror",
+    "short_description": "1996 • Robert Rodriguez • 108 min • 7.3"
+  },
+  {
+    "name": "Green Lantern",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2011 • Martin Campbell • 114 min • 5.6"
+  },
+  {
+    "name": "Top Gun",
+    "tag": "Action, Drama, Romance",
+    "short_description": "1986 • Tony Scott • 110 min • 6.9"
+  },
+  {
+    "name": "Chinatown",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1974 • Roman Polanski • 130 min • 8.2"
+  },
+  {
+    "name": "Starship Troopers",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1997 • Paul Verhoeven • 129 min • 7.2"
+  },
+  {
+    "name": "Gone with the Wind",
+    "tag": "Drama, History, Romance",
+    "short_description": "1939 • Victor Fleming, George Cukor, Sam Wood • 238 min • 8.2"
+  },
+  {
+    "name": "The Untouchables",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1987 • Brian De Palma • 119 min • 7.9"
+  },
+  {
+    "name": "Insomnia",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2002 • Christopher Nolan • 118 min • 7.2"
+  },
+  {
+    "name": "The Twilight Saga: New Moon",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2009 • Chris Weitz • 130 min • 4.6"
+  },
+  {
+    "name": "Pretty Woman",
+    "tag": "Comedy, Romance",
+    "short_description": "1990 • Garry Marshall • 119 min • 6.9"
+  },
+  {
+    "name": "Bridesmaids",
+    "tag": "Comedy, Romance",
+    "short_description": "2011 • Paul Feig • 125 min • 6.8"
+  },
+  {
+    "name": "Kingdom of Heaven",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2005 • Ridley Scott • 144 min • 7.2"
+  },
+  {
+    "name": "Ace Ventura: Pet Detective",
+    "tag": "Comedy",
+    "short_description": "1994 • Tom Shadyac • 86 min • 6.9"
+  },
+  {
+    "name": "Law Abiding Citizen",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2009 • F. Gary Gray • 109 min • 7.4"
+  },
+  {
+    "name": "Batman Returns",
+    "tag": "Action",
+    "short_description": "1992 • Tim Burton • 126 min • 7"
+  },
+  {
+    "name": "Angels & Demons",
+    "tag": "Mystery, Thriller",
+    "short_description": "2009 • Ron Howard • 138 min • 6.7"
+  },
+  {
+    "name": "Pitch Perfect",
+    "tag": "Comedy, Music, Romance",
+    "short_description": "2012 • Jason Moore • 112 min • 7.2"
+  },
+  {
+    "name": "Gone in Sixty Seconds",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2000 • Dominic Sena • 118 min • 6.5"
+  },
+  {
+    "name": "Forgetting Sarah Marshall",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2008 • Nicholas Stoller • 111 min • 7.2"
+  },
+  {
+    "name": "Zero Dark Thirty",
+    "tag": "Drama, History, Thriller",
+    "short_description": "2012 • Kathryn Bigelow • 157 min • 7.4"
+  },
+  {
+    "name": "Alien 3",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "1992 • David Fincher • 114 min • 6.4"
+  },
+  {
+    "name": "The Dictator",
+    "tag": "Comedy",
+    "short_description": "2012 • Larry Charles • 83 min • 6.4"
+  },
+  {
+    "name": "Room",
+    "tag": "Drama",
+    "short_description": "2015 • Lenny Abrahamson • 118 min • 8.2"
+  },
+  {
+    "name": "Crouching Tiger, Hidden Dragon",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2000 • Ang Lee • 120 min • 7.9"
+  },
+  {
+    "name": "Shrek the Third",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2007 • Chris Miller, Raman Hui • 93 min • 6.1"
+  },
+  {
+    "name": "Step Brothers",
+    "tag": "Comedy",
+    "short_description": "2008 • Adam McKay • 98 min • 6.9"
+  },
+  {
+    "name": "A Bug's Life",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "1998 • John Lasseter, Andrew Stanton • 95 min • 7.2"
+  },
+  {
+    "name": "Fear and Loathing in Las Vegas",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "1998 • Terry Gilliam • 118 min • 7.7"
+  },
+  {
+    "name": "The Fugitive",
+    "tag": "Action, Crime, Drama",
+    "short_description": "1993 • Andrew Davis • 130 min • 7.8"
+  },
+  {
+    "name": "1408",
+    "tag": "Fantasy, Horror",
+    "short_description": "2007 • Mikael Håfström • 104 min • 6.8"
+  },
+  {
+    "name": "About Time",
+    "tag": "Comedy, Drama, Fantasy",
+    "short_description": "2013 • Richard Curtis • 123 min • 7.8"
+  },
+  {
+    "name": "28 Weeks Later",
+    "tag": "Drama, Horror, Sci-Fi",
+    "short_description": "2007 • Juan Carlos Fresnadillo • 100 min • 7"
+  },
+  {
+    "name": "The Royal Tenenbaums",
+    "tag": "Comedy, Drama",
+    "short_description": "2001 • Wes Anderson • 110 min • 7.6"
+  },
+  {
+    "name": "Underworld",
+    "tag": "Action, Fantasy, Thriller",
+    "short_description": "2003 • Len Wiseman • 121 min • 7"
+  },
+  {
+    "name": "Insidious",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2010 • James Wan • 103 min • 6.8"
+  },
+  {
+    "name": "Hacksaw Ridge",
+    "tag": "Biography, Drama, History",
+    "short_description": "2016 • Mel Gibson • 139 min • 8.2"
+  },
+  {
+    "name": "John Carter",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2012 • Andrew Stanton • 132 min • 6.6"
+  },
+  {
+    "name": "Robin Hood",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2010 • Ridley Scott • 140 min • 6.7"
+  },
+  {
+    "name": "Home Alone 2: Lost in New York",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "1992 • Chris Columbus • 120 min • 6.6"
+  },
+  {
+    "name": "School of Rock",
+    "tag": "Comedy, Family, Music",
+    "short_description": "2003 • Richard Linklater • 108 min • 7.1"
+  },
+  {
+    "name": "Fantastic 4: Rise of the Silver Surfer",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2007 • Tim Story • 92 min • 5.6"
+  },
+  {
+    "name": "Hulk",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2003 • Ang Lee • 138 min • 5.7"
+  },
+  {
+    "name": "Meet the Fockers",
+    "tag": "Comedy, Romance",
+    "short_description": "2004 • Jay Roach • 115 min • 6.3"
+  },
+  {
+    "name": "Apollo 13",
+    "tag": "Adventure, Drama, History",
+    "short_description": "1995 • Ron Howard • 140 min • 7.6"
+  },
+  {
+    "name": "Stardust",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2007 • Matthew Vaughn • 127 min • 7.7"
+  },
+  {
+    "name": "Bridge of Spies",
+    "tag": "Drama, History, Thriller",
+    "short_description": "2015 • Steven Spielberg • 142 min • 7.6"
+  },
+  {
+    "name": "The Graduate",
+    "tag": "Comedy, Drama",
+    "short_description": "1967 • Mike Nichols • 106 min • 8"
+  },
+  {
+    "name": "Lone Survivor",
+    "tag": "Action, Biography, Drama",
+    "short_description": "2013 • Peter Berg • 121 min • 7.5"
+  },
+  {
+    "name": "Unknown",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2011 • Jaume Collet-Serra • 113 min • 6.9"
+  },
+  {
+    "name": "The Patriot",
+    "tag": "Action, Drama, History",
+    "short_description": "2000 • Roland Emmerich • 165 min • 7.1"
+  },
+  {
+    "name": "Phone Booth",
+    "tag": "Crime, Mystery, Thriller",
+    "short_description": "2002 • Joel Schumacher • 81 min • 7.1"
+  },
+  {
+    "name": "Hellboy II: The Golden Army",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2008 • Guillermo del Toro • 120 min • 7"
+  },
+  {
+    "name": "Notting Hill",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1999 • Roger Michell • 124 min • 7"
+  },
+  {
+    "name": "Almost Famous",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2000 • Cameron Crowe • 122 min • 7.9"
+  },
+  {
+    "name": "Panic Room",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2002 • David Fincher • 112 min • 6.8"
+  },
+  {
+    "name": "Vanilla Sky",
+    "tag": "Fantasy, Mystery, Romance",
+    "short_description": "2001 • Cameron Crowe • 136 min • 6.9"
+  },
+  {
+    "name": "Kick-Ass 2",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2013 • Jeff Wadlow • 103 min • 6.6"
+  },
+  {
+    "name": "Olympus Has Fallen",
+    "tag": "Action, Thriller",
+    "short_description": "2013 • Antoine Fuqua • 119 min • 6.5"
+  },
+  {
+    "name": "Dredd",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2012 • Pete Travis • 95 min • 7.1"
+  },
+  {
+    "name": "Chronicle",
+    "tag": "Sci-Fi, Thriller",
+    "short_description": "2012 • Josh Trank • 84 min • 7.1"
+  },
+  {
+    "name": "Contact",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "1997 • Robert Zemeckis • 150 min • 7.4"
+  },
+  {
+    "name": "Red Dragon",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2002 • Brett Ratner • 124 min • 7.2"
+  },
+  {
+    "name": "Non-Stop",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2014 • Jaume Collet-Serra • 106 min • 7"
+  },
+  {
+    "name": "Resident Evil",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2002 • Paul W.S. Anderson • 100 min • 6.7"
+  },
+  {
+    "name": "The Descendants",
+    "tag": "Comedy, Drama",
+    "short_description": "2011 • Alexander Payne • 115 min • 7.3"
+  },
+  {
+    "name": "Zoolander",
+    "tag": "Comedy",
+    "short_description": "2001 • Ben Stiller • 90 min • 6.6"
+  },
+  {
+    "name": "Passengers",
+    "tag": "Adventure, Drama, Romance",
+    "short_description": "2016 • Morten Tyldum • 116 min • 7"
+  },
+  {
+    "name": "The Grey",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2011 • Joe Carnahan • 117 min • 6.8"
+  },
+  {
+    "name": "Battleship",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2012 • Peter Berg • 131 min • 5.8"
+  },
+  {
+    "name": "Road to Perdition",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2002 • Sam Mendes • 117 min • 7.7"
+  },
+  {
+    "name": "Noah",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2014 • Darren Aronofsky • 138 min • 5.8"
+  },
+  {
+    "name": "Dark Shadows",
+    "tag": "Comedy, Fantasy, Horror",
+    "short_description": "2012 • Tim Burton • 113 min • 6.2"
+  },
+  {
+    "name": "Vicky Cristina Barcelona",
+    "tag": "Drama, Romance",
+    "short_description": "2008 • Woody Allen • 96 min • 7.1"
+  },
+  {
+    "name": "Office Space",
+    "tag": "Comedy",
+    "short_description": "1999 • Mike Judge • 89 min • 7.8"
+  },
+  {
+    "name": "The Adjustment Bureau",
+    "tag": "Romance, Sci-Fi, Thriller",
+    "short_description": "2011 • George Nolfi • 106 min • 7.1"
+  },
+  {
+    "name": "Lincoln",
+    "tag": "Biography, Drama, History",
+    "short_description": "2012 • Steven Spielberg • 150 min • 7.4"
+  },
+  {
+    "name": "American Pie 2",
+    "tag": "Comedy",
+    "short_description": "2001 • J.B. Rogers • 108 min • 6.4"
+  },
+  {
+    "name": "Blow",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2001 • Ted Demme • 124 min • 7.6"
+  },
+  {
+    "name": "Annie Hall",
+    "tag": "Comedy, Romance",
+    "short_description": "1977 • Woody Allen • 93 min • 8.1"
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "tag": "Adventure, Biography, Drama",
+    "short_description": "1962 • David Lean • 216 min • 8.3"
+  },
+  {
+    "name": "Ice Age: The Meltdown",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2006 • Carlos Saldanha • 91 min • 6.9"
+  },
+  {
+    "name": "Changeling",
+    "tag": "Biography, Drama, Mystery",
+    "short_description": "2008 • Clint Eastwood • 141 min • 7.8"
+  },
+  {
+    "name": "GoldenEye",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1995 • Martin Campbell • 130 min • 7.2"
+  },
+  {
+    "name": "Terminator Genisys",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • Alan Taylor • 126 min • 6.5"
+  },
+  {
+    "name": "2 Fast 2 Furious",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2003 • John Singleton • 107 min • 5.9"
+  },
+  {
+    "name": "The Man from U.N.C.L.E.",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2015 • Guy Ritchie • 116 min • 7.3"
+  },
+  {
+    "name": "The Village",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2004 • M. Night Shyamalan • 108 min • 6.5"
+  },
+  {
+    "name": "The Hunger Games: Mockingjay - Part 2",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • Francis Lawrence • 137 min • 6.6"
+  },
+  {
+    "name": "Pride & Prejudice",
+    "tag": "Drama, Romance",
+    "short_description": "2005 • Joe Wright • 129 min • 7.8"
+  },
+  {
+    "name": "Crank",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2006 • Mark Neveldine, Brian Taylor • 88 min • 7"
+  },
+  {
+    "name": "Sucker Punch",
+    "tag": "Action, Fantasy",
+    "short_description": "2011 • Zack Snyder • 110 min • 6.1"
+  },
+  {
+    "name": "The Boondock Saints",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "1999 • Troy Duffy • 108 min • 7.9"
+  },
+  {
+    "name": "RocknRolla",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2008 • Guy Ritchie • 114 min • 7.3"
+  },
+  {
+    "name": "Atonement",
+    "tag": "Drama, Mystery, Romance",
+    "short_description": "2007 • Joe Wright • 123 min • 7.8"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "tag": "Action, Horror, Thriller",
+    "short_description": "2004 • Zack Snyder • 101 min • 7.4"
+  },
+  {
+    "name": "Beetlejuice",
+    "tag": "Comedy, Fantasy",
+    "short_description": "1988 • Tim Burton • 92 min • 7.5"
+  },
+  {
+    "name": "I Am Number Four",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2011 • D.J. Caruso • 109 min • 6.1"
+  },
+  {
+    "name": "Blade",
+    "tag": "Action, Horror",
+    "short_description": "1998 • Stephen Norrington • 120 min • 7.1"
+  },
+  {
+    "name": "Paul",
+    "tag": "Adventure, Comedy, Sci-Fi",
+    "short_description": "2011 • Greg Mottola • 104 min • 7"
+  },
+  {
+    "name": "Before Sunrise",
+    "tag": "Drama, Romance",
+    "short_description": "1995 • Richard Linklater • 101 min • 8.1"
+  },
+  {
+    "name": "The Jungle Book",
+    "tag": "Adventure, Drama, Family",
+    "short_description": "2016 • Jon Favreau • 106 min • 7.5"
+  },
+  {
+    "name": "The Place Beyond the Pines",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2012 • Derek Cianfrance • 140 min • 7.3"
+  },
+  {
+    "name": "Corpse Bride",
+    "tag": "Animation, Drama, Family",
+    "short_description": "2005 • Tim Burton, Mike Johnson • 77 min • 7.4"
+  },
+  {
+    "name": "Enemy at the Gates",
+    "tag": "Drama, History, War",
+    "short_description": "2001 • Jean-Jacques Annaud • 131 min • 7.6"
+  },
+  {
+    "name": "The World's End",
+    "tag": "Action, Comedy, Sci-Fi",
+    "short_description": "2013 • Edgar Wright • 109 min • 7"
+  },
+  {
+    "name": "The Other Guys",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2010 • Adam McKay • 107 min • 6.7"
+  },
+  {
+    "name": "Sunshine",
+    "tag": "Adventure, Sci-Fi, Thriller",
+    "short_description": "2007 • Danny Boyle • 107 min • 7.3"
+  },
+  {
+    "name": "Don Jon",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2013 • Joseph Gordon-Levitt • 90 min • 6.6"
+  },
+  {
+    "name": "Pitch Black",
+    "tag": "Horror, Sci-Fi",
+    "short_description": "2000 • David Twohy • 109 min • 7.1"
+  },
+  {
+    "name": "Batman Forever",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "1995 • Joel Schumacher • 121 min • 5.4"
+  },
+  {
+    "name": "Jerry Maguire",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1996 • Cameron Crowe • 139 min • 7.3"
+  },
+  {
+    "name": "Role Models",
+    "tag": "Comedy",
+    "short_description": "2008 • David Wain • 99 min • 6.9"
+  },
+  {
+    "name": "8 Mile",
+    "tag": "Drama, Music",
+    "short_description": "2002 • Curtis Hanson • 110 min • 7"
+  },
+  {
+    "name": "Perfume: The Story of a Murderer",
+    "tag": "Crime, Drama, Fantasy",
+    "short_description": "2006 • Tom Tykwer • 147 min • 7.5"
+  },
+  {
+    "name": "The Artist",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2011 • Michel Hazanavicius • 100 min • 7.9"
+  },
+  {
+    "name": "Snowpiercer",
+    "tag": "Action, Drama, Sci-Fi",
+    "short_description": "2013 • Bong Joon Ho • 126 min • 7"
+  },
+  {
+    "name": "True Lies",
+    "tag": "Action, Comedy, Thriller",
+    "short_description": "1994 • James Cameron • 141 min • 7.2"
+  },
+  {
+    "name": "The Blair Witch Project",
+    "tag": "Horror, Mystery",
+    "short_description": "1999 • Daniel Myrick, Eduardo Sánchez • 81 min • 6.4"
+  },
+  {
+    "name": "The Fountain",
+    "tag": "Drama, Sci-Fi",
+    "short_description": "2006 • Darren Aronofsky • 96 min • 7.3"
+  },
+  {
+    "name": "The Reader",
+    "tag": "Drama, Romance",
+    "short_description": "2008 • Stephen Daldry • 124 min • 7.6"
+  },
+  {
+    "name": "Batman & Robin",
+    "tag": "Action, Fantasy, Sci-Fi",
+    "short_description": "1997 • Joel Schumacher • 125 min • 3.7"
+  },
+  {
+    "name": "Boogie Nights",
+    "tag": "Drama",
+    "short_description": "1997 • Paul Thomas Anderson • 155 min • 7.9"
+  },
+  {
+    "name": "Eastern Promises",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2007 • David Cronenberg • 100 min • 7.7"
+  },
+  {
+    "name": "21",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2008 • Robert Luketic • 123 min • 6.8"
+  },
+  {
+    "name": "Kung Fu Panda 2",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2011 • Jennifer Yuh Nelson • 90 min • 7.3"
+  },
+  {
+    "name": "21 Grams",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2003 • Alejandro González Iñárritu • 124 min • 7.7"
+  },
+  {
+    "name": "Dances with Wolves",
+    "tag": "Adventure, Drama, Western",
+    "short_description": "1990 • Kevin Costner • 181 min • 8"
+  },
+  {
+    "name": "Saw II",
+    "tag": "Horror, Mystery",
+    "short_description": "2005 • Darren Lynn Bousman • 93 min • 6.6"
+  },
+  {
+    "name": "Seven Psychopaths",
+    "tag": "Comedy, Crime",
+    "short_description": "2012 • Martin McDonagh • 110 min • 7.2"
+  },
+  {
+    "name": "Enemy of the State",
+    "tag": "Action, Thriller",
+    "short_description": "1998 • Tony Scott • 132 min • 7.3"
+  },
+  {
+    "name": "10 Cloverfield Lane",
+    "tag": "Drama, Horror, Mystery",
+    "short_description": "2016 • Dan Trachtenberg • 104 min • 7.2"
+  },
+  {
+    "name": "The Ides of March",
+    "tag": "Drama",
+    "short_description": "2011 • George Clooney • 101 min • 7.1"
+  },
+  {
+    "name": "Thank You for Smoking",
+    "tag": "Comedy, Drama",
+    "short_description": "2005 • Jason Reitman • 92 min • 7.6"
+  },
+  {
+    "name": "Walk the Line",
+    "tag": "Biography, Drama, Music",
+    "short_description": "2005 • James Mangold • 136 min • 7.9"
+  },
+  {
+    "name": "A History of Violence",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2005 • David Cronenberg • 96 min • 7.5"
+  },
+  {
+    "name": "The Fast and the Furious: Tokyo Drift",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2006 • Justin Lin • 104 min • 6"
+  },
+  {
+    "name": "Rango",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2011 • Gore Verbinski • 107 min • 7.2"
+  },
+  {
+    "name": "Dodgeball: A True Underdog Story",
+    "tag": "Comedy, Sport",
+    "short_description": "2004 • Rawson Marshall Thurber • 92 min • 6.7"
+  },
+  {
+    "name": "The Bucket List",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2007 • Rob Reiner • 97 min • 7.4"
+  },
+  {
+    "name": "Ender's Game",
+    "tag": "Action, Fantasy, Sci-Fi",
+    "short_description": "2013 • Gavin Hood • 114 min • 6.7"
+  },
+  {
+    "name": "The Twilight Saga: Breaking Dawn - Part 2",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2012 • Bill Condon • 115 min • 5.5"
+  },
+  {
+    "name": "Dog Day Afternoon",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "1975 • Sidney Lumet • 125 min • 8"
+  },
+  {
+    "name": "The Holiday",
+    "tag": "Comedy, Romance",
+    "short_description": "2006 • Nancy Meyers • 138 min • 6.9"
+  },
+  {
+    "name": "Mrs. Doubtfire",
+    "tag": "Comedy, Drama, Family",
+    "short_description": "1993 • Chris Columbus • 125 min • 6.9"
+  },
+  {
+    "name": "Knowing",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "2009 • Alex Proyas • 121 min • 6.2"
+  },
+  {
+    "name": "Valkyrie",
+    "tag": "Drama, History, Thriller",
+    "short_description": "2008 • Bryan Singer • 121 min • 7.1"
+  },
+  {
+    "name": "Stranger Than Fiction",
+    "tag": "Comedy, Drama, Fantasy",
+    "short_description": "2006 • Marc Forster • 113 min • 7.6"
+  },
+  {
+    "name": "The Hunt",
+    "tag": "Drama",
+    "short_description": "2012 • Thomas Vinterberg • 115 min • 8.3"
+  },
+  {
+    "name": "Disturbia",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2007 • D.J. Caruso • 105 min • 6.9"
+  },
+  {
+    "name": "Me, Myself & Irene",
+    "tag": "Comedy",
+    "short_description": "2000 • Bobby Farrelly, Peter Farrelly • 116 min • 6.5"
+  },
+  {
+    "name": "Warm Bodies",
+    "tag": "Comedy, Horror, Romance",
+    "short_description": "2013 • Jonathan Levine • 98 min • 6.9"
+  },
+  {
+    "name": "My Neighbor Totoro",
+    "tag": "Animation, Family, Fantasy",
+    "short_description": "1988 • Hayao Miyazaki • 86 min • 8.2"
+  },
+  {
+    "name": "The Twilight Saga: Eclipse",
+    "tag": "Adventure, Drama, Fantasy",
+    "short_description": "2010 • David Slade • 124 min • 4.9"
+  },
+  {
+    "name": "End of Watch",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2012 • David Ayer • 109 min • 7.7"
+  },
+  {
+    "name": "A Few Good Men",
+    "tag": "Drama, Thriller",
+    "short_description": "1992 • Rob Reiner • 138 min • 7.7"
+  },
+  {
+    "name": "Paranormal Activity",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2007 • Oren Peli • 86 min • 6.3"
+  },
+  {
+    "name": "Hook",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "1991 • Steven Spielberg • 142 min • 6.7"
+  },
+  {
+    "name": "Garden State",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2004 • Zach Braff • 102 min • 7.5"
+  },
+  {
+    "name": "Old School",
+    "tag": "Comedy",
+    "short_description": "2003 • Todd Phillips • 88 min • 7.2"
+  },
+  {
+    "name": "Ghost Rider",
+    "tag": "Action, Fantasy, Thriller",
+    "short_description": "2007 • Mark Steven Johnson • 114 min • 5.2"
+  },
+  {
+    "name": "Grown Ups",
+    "tag": "Comedy",
+    "short_description": "2010 • Dennis Dugan • 102 min • 6"
+  },
+  {
+    "name": "The Chronicles of Riddick",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2004 • David Twohy • 119 min • 6.7"
+  },
+  {
+    "name": "The Lone Ranger",
+    "tag": "Action, Adventure, Western",
+    "short_description": "2013 • Gore Verbinski • 150 min • 6.5"
+  },
+  {
+    "name": "RoboCop",
+    "tag": "Action, Crime, Sci-Fi",
+    "short_description": "2014 • José Padilha • 117 min • 6.2"
+  },
+  {
+    "name": "Final Destination",
+    "tag": "Horror, Thriller",
+    "short_description": "2000 • James Wong • 98 min • 6.7"
+  },
+  {
+    "name": "Austin Powers: International Man of Mystery",
+    "tag": "Adventure, Comedy",
+    "short_description": "1997 • Jay Roach • 89 min • 7"
+  },
+  {
+    "name": "Warcraft: The Beginning",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2016 • Duncan Jones • 123 min • 7"
+  },
+  {
+    "name": "Chappie",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2015 • Neill Blomkamp • 120 min • 6.9"
+  },
+  {
+    "name": "The Sting",
+    "tag": "Comedy, Crime, Drama",
+    "short_description": "1973 • George Roy Hill • 129 min • 8.3"
+  },
+  {
+    "name": "Escape Plan",
+    "tag": "Action, Crime, Mystery",
+    "short_description": "2013 • Mikael Håfström • 115 min • 6.7"
+  },
+  {
+    "name": "Some Like It Hot",
+    "tag": "Comedy, Romance",
+    "short_description": "1959 • Billy Wilder • 121 min • 8.3"
+  },
+  {
+    "name": "Philadelphia",
+    "tag": "Drama",
+    "short_description": "1993 • Jonathan Demme • 125 min • 7.7"
+  },
+  {
+    "name": "Mulan",
+    "tag": "Animation, Adventure, Family",
+    "short_description": "1998 • Tony Bancroft, Barry Cook • 88 min • 7.6"
+  },
+  {
+    "name": "Austin Powers: The Spy Who Shagged Me",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "1999 • Jay Roach • 95 min • 6.6"
+  },
+  {
+    "name": "The Road",
+    "tag": "Adventure, Drama",
+    "short_description": "2009 • John Hillcoat • 111 min • 7.3"
+  },
+  {
+    "name": "Clerks",
+    "tag": "Comedy",
+    "short_description": "1994 • Kevin Smith • 92 min • 7.8"
+  },
+  {
+    "name": "Identity",
+    "tag": "Mystery, Thriller",
+    "short_description": "2003 • James Mangold • 90 min • 7.3"
+  },
+  {
+    "name": "The Beach",
+    "tag": "Adventure, Drama, Romance",
+    "short_description": "2000 • Danny Boyle • 119 min • 6.6"
+  },
+  {
+    "name": "Contagion",
+    "tag": "Drama, Thriller",
+    "short_description": "2011 • Steven Soderbergh • 106 min • 6.6"
+  },
+  {
+    "name": "Dogma",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "1999 • Kevin Smith • 130 min • 7.4"
+  },
+  {
+    "name": "Bad Boys II",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2003 • Michael Bay • 147 min • 6.6"
+  },
+  {
+    "name": "The Passion of the Christ",
+    "tag": "Drama",
+    "short_description": "2004 • Mel Gibson • 127 min • 7.2"
+  },
+  {
+    "name": "Alien: Resurrection",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "1997 • Jean-Pierre Jeunet • 109 min • 6.3"
+  },
+  {
+    "name": "The Tourist",
+    "tag": "Action, Crime, Romance",
+    "short_description": "2010 • Florian Henckel von Donnersmarck • 103 min • 6"
+  },
+  {
+    "name": "Bridget Jones's Diary",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2001 • Sharon Maguire • 97 min • 6.7"
+  },
+  {
+    "name": "Kiss Kiss Bang Bang",
+    "tag": "Comedy, Crime, Mystery",
+    "short_description": "2005 • Shane Black • 103 min • 7.6"
+  },
+  {
+    "name": "The Adventures of Tintin",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2011 • Steven Spielberg • 107 min • 7.4"
+  },
+  {
+    "name": "Planet of the Apes",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2001 • Tim Burton • 119 min • 5.7"
+  },
+  {
+    "name": "Transcendence",
+    "tag": "Drama, Mystery, Romance",
+    "short_description": "2014 • Wally Pfister • 119 min • 6.3"
+  },
+  {
+    "name": "Megamind",
+    "tag": "Animation, Action, Comedy",
+    "short_description": "2010 • Tom McGrath • 95 min • 7.3"
+  },
+  {
+    "name": "Silent Hill",
+    "tag": "Adventure, Horror, Mystery",
+    "short_description": "2006 • Christophe Gans • 125 min • 6.6"
+  },
+  {
+    "name": "Shakespeare in Love",
+    "tag": "Comedy, Drama, History",
+    "short_description": "1998 • John Madden • 123 min • 7.2"
+  },
+  {
+    "name": "Amores Perros",
+    "tag": "Drama, Thriller",
+    "short_description": "2000 • Alejandro González Iñárritu • 154 min • 8.1"
+  },
+  {
+    "name": "Munich",
+    "tag": "Crime, Drama, History",
+    "short_description": "2005 • Steven Spielberg • 164 min • 7.6"
+  },
+  {
+    "name": "Gandhi",
+    "tag": "Biography, Drama, History",
+    "short_description": "1982 • Richard Attenborough • 191 min • 8.1"
+  },
+  {
+    "name": "Bad Boys",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "1995 • Michael Bay • 119 min • 6.8"
+  },
+  {
+    "name": "Body of Lies",
+    "tag": "Action, Drama, Romance",
+    "short_description": "2008 • Ridley Scott • 128 min • 7.1"
+  },
+  {
+    "name": "First Blood",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "1982 • Ted Kotcheff • 93 min • 7.7"
+  },
+  {
+    "name": "Just Go with It",
+    "tag": "Comedy, Romance",
+    "short_description": "2011 • Dennis Dugan • 117 min • 6.4"
+  },
+  {
+    "name": "Chicago",
+    "tag": "Comedy, Crime, Musical",
+    "short_description": "2002 • Rob Marshall • 113 min • 7.2"
+  },
+  {
+    "name": "Gangster Squad",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2013 • Ruben Fleischer • 113 min • 6.7"
+  },
+  {
+    "name": "The Lincoln Lawyer",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2011 • Brad Furman • 118 min • 7.3"
+  },
+  {
+    "name": "Oz the Great and Powerful",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2013 • Sam Raimi • 130 min • 6.3"
+  },
+  {
+    "name": "Grease",
+    "tag": "Musical, Romance",
+    "short_description": "1978 • Randal Kleiser • 110 min • 7.2"
+  },
+  {
+    "name": "Mars Attacks!",
+    "tag": "Comedy, Sci-Fi",
+    "short_description": "1996 • Tim Burton • 106 min • 6.3"
+  },
+  {
+    "name": "What's Eating Gilbert Grape",
+    "tag": "Drama",
+    "short_description": "1993 • Lasse Hallström • 118 min • 7.8"
+  },
+  {
+    "name": "G.I. Joe: The Rise of Cobra",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2009 • Stephen Sommers • 118 min • 5.8"
+  },
+  {
+    "name": "Das Boot",
+    "tag": "Adventure, Drama, Thriller",
+    "short_description": "1981 • Wolfgang Petersen • 149 min • 8.4"
+  },
+  {
+    "name": "Predators",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2010 • Nimród Antal • 107 min • 6.4"
+  },
+  {
+    "name": "Finding Neverland",
+    "tag": "Biography, Drama, Family",
+    "short_description": "2004 • Marc Forster • 106 min • 7.7"
+  },
+  {
+    "name": "Before Sunset",
+    "tag": "Drama, Romance",
+    "short_description": "2004 • Richard Linklater • 80 min • 8"
+  },
+  {
+    "name": "No Strings Attached",
+    "tag": "Comedy, Romance",
+    "short_description": "2011 • Ivan Reitman • 108 min • 6.2"
+  },
+  {
+    "name": "Hachi: A Dog's Tale",
+    "tag": "Drama, Family",
+    "short_description": "2009 • Lasse Hallström • 93 min • 8.1"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2014 • Jonathan Liebesman • 101 min • 5.9"
+  },
+  {
+    "name": "Ice Age: Dawn of the Dinosaurs",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2009 • Carlos Saldanha, Mike Thurmeier • 94 min • 7"
+  },
+  {
+    "name": "American Reunion",
+    "tag": "Comedy",
+    "short_description": "2012 • Jon Hurwitz, Hayden Schlossberg • 113 min • 6.7"
+  },
+  {
+    "name": "The Girl Next Door",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2004 • Luke Greenfield • 108 min • 6.8"
+  },
+  {
+    "name": "P.S. I Love You",
+    "tag": "Drama, Romance",
+    "short_description": "2007 • Richard LaGravenese • 126 min • 7.1"
+  },
+  {
+    "name": "The Great Escape",
+    "tag": "Adventure, Drama, History",
+    "short_description": "1963 • John Sturges • 172 min • 8.2"
+  },
+  {
+    "name": "Meet Joe Black",
+    "tag": "Drama, Fantasy, Romance",
+    "short_description": "1998 • Martin Brest • 178 min • 7.1"
+  },
+  {
+    "name": "Romeo + Juliet",
+    "tag": "Drama, Romance",
+    "short_description": "1996 • Baz Luhrmann • 120 min • 6.8"
+  },
+  {
+    "name": "Die Another Day",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2002 • Lee Tamahori • 133 min • 6.1"
+  },
+  {
+    "name": "Creed",
+    "tag": "Drama, Sport",
+    "short_description": "2015 • Ryan Coogler • 133 min • 7.6"
+  },
+  {
+    "name": "Hotel Transylvania",
+    "tag": "Animation, Comedy, Family",
+    "short_description": "2012 • Genndy Tartakovsky • 91 min • 7.1"
+  },
+  {
+    "name": "Match Point",
+    "tag": "Drama, Romance, Sport",
+    "short_description": "2005 • Woody Allen • 124 min • 7.7"
+  },
+  {
+    "name": "Traffic",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2000 • Steven Soderbergh • 147 min • 7.6"
+  },
+  {
+    "name": "Master and Commander: The Far Side of the World",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2003 • Peter Weir • 138 min • 7.4"
+  },
+  {
+    "name": "Closer",
+    "tag": "Drama, Romance",
+    "short_description": "2004 • Mike Nichols • 104 min • 7.3"
+  },
+  {
+    "name": "Ben-Hur",
+    "tag": "Adventure, Drama, History",
+    "short_description": "1959 • William Wyler • 212 min • 8.1"
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2017 • James Gunn • 136 min • 8.1"
+  },
+  {
+    "name": "Rio",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2011 • Carlos Saldanha • 96 min • 6.9"
+  },
+  {
+    "name": "Safe House",
+    "tag": "Action, Crime, Mystery",
+    "short_description": "2012 • Daniel Espinosa • 115 min • 6.8"
+  },
+  {
+    "name": "Get Smart",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2008 • Peter Segal • 110 min • 6.5"
+  },
+  {
+    "name": "The Elephant Man",
+    "tag": "Biography, Drama",
+    "short_description": "1980 • David Lynch • 124 min • 8.2"
+  },
+  {
+    "name": "White House Down",
+    "tag": "Action, Drama, Thriller",
+    "short_description": "2013 • Roland Emmerich • 131 min • 6.4"
+  },
+  {
+    "name": "Death Race",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2008 • Paul W.S. Anderson • 105 min • 6.4"
+  },
+  {
+    "name": "A Good Day to Die Hard",
+    "tag": "Action, Thriller",
+    "short_description": "2013 • John Moore • 98 min • 5.3"
+  },
+  {
+    "name": "Sinister",
+    "tag": "Horror, Mystery",
+    "short_description": "2012 • Scott Derrickson • 110 min • 6.8"
+  },
+  {
+    "name": "Insurgent",
+    "tag": "Adventure, Sci-Fi, Thriller",
+    "short_description": "2015 • Robert Schwentke • 119 min • 6.3"
+  },
+  {
+    "name": "The Ugly Truth",
+    "tag": "Comedy, Romance",
+    "short_description": "2009 • Robert Luketic • 96 min • 6.5"
+  },
+  {
+    "name": "I Love You, Man",
+    "tag": "Comedy, Romance",
+    "short_description": "2009 • John Hamburg • 105 min • 7"
+  },
+  {
+    "name": "Rocky Balboa",
+    "tag": "Drama, Sport",
+    "short_description": "2006 • Sylvester Stallone • 102 min • 7.2"
+  },
+  {
+    "name": "True Romance",
+    "tag": "Crime, Drama, Romance",
+    "short_description": "1993 • Tony Scott • 120 min • 8"
+  },
+  {
+    "name": "A Walk to Remember",
+    "tag": "Drama, Romance",
+    "short_description": "2002 • Adam Shankman • 101 min • 7.4"
+  },
+  {
+    "name": "The Number 23",
+    "tag": "Mystery, Thriller",
+    "short_description": "2007 • Joel Schumacher • 101 min • 6.4"
+  },
+  {
+    "name": "For a Few Dollars More",
+    "tag": "Western",
+    "short_description": "1965 • Sergio Leone • 132 min • 8.3"
+  },
+  {
+    "name": "The Happening",
+    "tag": "Sci-Fi, Thriller",
+    "short_description": "2008 • M. Night Shyamalan • 91 min • 5"
+  },
+  {
+    "name": "Star Trek Beyond",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2016 • Justin Lin • 122 min • 7.1"
+  },
+  {
+    "name": "Machete",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2010 • Ethan Maniquis, Robert Rodriguez • 105 min • 6.6"
+  },
+  {
+    "name": "Cube",
+    "tag": "Drama, Mystery, Sci-Fi",
+    "short_description": "1997 • Vincenzo Natali • 90 min • 7.3"
+  },
+  {
+    "name": "Southpaw",
+    "tag": "Drama, Sport",
+    "short_description": "2015 • Antoine Fuqua • 124 min • 7.4"
+  },
+  {
+    "name": "Austin Powers in Goldmember",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2002 • Jay Roach • 94 min • 6.2"
+  },
+  {
+    "name": "Airplane!",
+    "tag": "Comedy",
+    "short_description": "1980 • Jim Abrahams, David Zucker, Jerry Zucker • 88 min • 7.8"
+  },
+  {
+    "name": "American Wedding",
+    "tag": "Comedy, Romance",
+    "short_description": "2003 • Jesse Dylan • 96 min • 6.3"
+  },
+  {
+    "name": "Pain & Gain",
+    "tag": "Comedy, Crime, Drama",
+    "short_description": "2013 • Michael Bay • 129 min • 6.5"
+  },
+  {
+    "name": "Remember the Titans",
+    "tag": "Biography, Drama, Sport",
+    "short_description": "2000 • Boaz Yakin • 113 min • 7.8"
+  },
+  {
+    "name": "Big Daddy",
+    "tag": "Comedy, Drama",
+    "short_description": "1999 • Dennis Dugan • 93 min • 6.4"
+  },
+  {
+    "name": "Ace Ventura: When Nature Calls",
+    "tag": "Adventure, Comedy, Crime",
+    "short_description": "1995 • Steve Oedekerk • 90 min • 6.3"
+  },
+  {
+    "name": "South Park: Bigger, Longer & Uncut",
+    "tag": "Animation, Comedy, Fantasy",
+    "short_description": "1999 • Trey Parker • 81 min • 7.8"
+  },
+  {
+    "name": "Halloween",
+    "tag": "Horror, Thriller",
+    "short_description": "1978 • John Carpenter • 91 min • 7.9"
+  },
+  {
+    "name": "How to Lose a Guy in 10 Days",
+    "tag": "Comedy, Romance",
+    "short_description": "2003 • Donald Petrie • 116 min • 6.4"
+  },
+  {
+    "name": "EuroTrip",
+    "tag": "Comedy",
+    "short_description": "2004 • Jeff Schaffer, Alec Berg, David Mandel • 93 min • 6.6"
+  },
+  {
+    "name": "Rush Hour 2",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2001 • Brett Ratner • 90 min • 6.6"
+  },
+  {
+    "name": "Napoleon Dynamite",
+    "tag": "Comedy",
+    "short_description": "2004 • Jared Hess • 96 min • 6.9"
+  },
+  {
+    "name": "Blade II",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2002 • Guillermo del Toro • 117 min • 6.7"
+  },
+  {
+    "name": "Hansel & Gretel: Witch Hunters",
+    "tag": "Action, Fantasy, Horror",
+    "short_description": "2013 • Tommy Wirkola • 88 min • 6.1"
+  },
+  {
+    "name": "Cinema Paradiso",
+    "tag": "Drama",
+    "short_description": "1988 • Giuseppe Tornatore • 155 min • 8.5"
+  },
+  {
+    "name": "Focus",
+    "tag": "Comedy, Crime, Drama",
+    "short_description": "2015 • Glenn Ficarra, John Requa • 105 min • 6.6"
+  },
+  {
+    "name": "Run Lola Run",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1998 • Tom Tykwer • 80 min • 7.7"
+  },
+  {
+    "name": "Bad Teacher",
+    "tag": "Comedy",
+    "short_description": "2011 • Jake Kasdan • 92 min • 5.7"
+  },
+  {
+    "name": "Underworld: Evolution",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2006 • Len Wiseman • 106 min • 6.8"
+  },
+  {
+    "name": "The Internship",
+    "tag": "Comedy",
+    "short_description": "2013 • Shawn Levy • 119 min • 6.3"
+  },
+  {
+    "name": "After Earth",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • M. Night Shyamalan • 100 min • 4.9"
+  },
+  {
+    "name": "What Women Want",
+    "tag": "Comedy, Fantasy, Romance",
+    "short_description": "2000 • Nancy Meyers • 127 min • 6.4"
+  },
+  {
+    "name": "A Separation",
+    "tag": "Drama, Mystery",
+    "short_description": "2011 • Asghar Farhadi • 123 min • 8.4"
+  },
+  {
+    "name": "2 Guns",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2013 • Baltasar Kormákur • 109 min • 6.7"
+  },
+  {
+    "name": "Singin' in the Rain",
+    "tag": "Comedy, Musical, Romance",
+    "short_description": "1952 • Stanley Donen, Gene Kelly • 103 min • 8.3"
+  },
+  {
+    "name": "Lara Croft: Tomb Raider",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2001 • Simon West • 100 min • 5.8"
+  },
+  {
+    "name": "Transporter 2",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2005 • Louis Leterrier • 87 min • 6.3"
+  },
+  {
+    "name": "Hanna",
+    "tag": "Action, Drama, Thriller",
+    "short_description": "2011 • Joe Wright • 111 min • 6.8"
+  },
+  {
+    "name": "Drag Me to Hell",
+    "tag": "Horror, Thriller",
+    "short_description": "2009 • Sam Raimi • 99 min • 6.6"
+  },
+  {
+    "name": "The Descent",
+    "tag": "Adventure, Horror, Thriller",
+    "short_description": "2005 • Neil Marshall • 99 min • 7.2"
+  },
+  {
+    "name": "Project X",
+    "tag": "Comedy",
+    "short_description": "2012 • Nima Nourizadeh • 88 min • 6.7"
+  },
+  {
+    "name": "Dark City",
+    "tag": "Mystery, Sci-Fi, Thriller",
+    "short_description": "1998 • Alex Proyas • 100 min • 7.7"
+  },
+  {
+    "name": "Happy Gilmore",
+    "tag": "Comedy, Sport",
+    "short_description": "1996 • Dennis Dugan • 92 min • 7"
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2009 • Phil Lord, Christopher Miller • 90 min • 7"
+  },
+  {
+    "name": "You Don't Mess with the Zohan",
+    "tag": "Action, Comedy",
+    "short_description": "2008 • Dennis Dugan • 113 min • 5.5"
+  },
+  {
+    "name": "Butch Cassidy and the Sundance Kid",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "1969 • George Roy Hill • 110 min • 8.1"
+  },
+  {
+    "name": "The World Is Not Enough",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1999 • Michael Apted • 128 min • 6.4"
+  },
+  {
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "tag": "Adventure, Comedy, Sci-Fi",
+    "short_description": "2005 • Garth Jennings • 109 min • 6.8"
+  },
+  {
+    "name": "San Andreas",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2015 • Brad Peyton • 114 min • 6.1"
+  },
+  {
+    "name": "Resident Evil: Apocalypse",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2004 • Alexander Witt • 94 min • 6.2"
+  },
+  {
+    "name": "Ghost",
+    "tag": "Drama, Fantasy, Romance",
+    "short_description": "1990 • Jerry Zucker • 127 min • 7"
+  },
+  {
+    "name": "Big",
+    "tag": "Comedy, Drama, Family",
+    "short_description": "1988 • Penny Marshall • 104 min • 7.3"
+  },
+  {
+    "name": "Harold & Kumar Go to White Castle",
+    "tag": "Adventure, Comedy",
+    "short_description": "2004 • Danny Leiner • 88 min • 7.1"
+  },
+  {
+    "name": "Blue Jasmine",
+    "tag": "Drama",
+    "short_description": "2013 • Woody Allen • 98 min • 7.3"
+  },
+  {
+    "name": "The Bridge on the River Kwai",
+    "tag": "Adventure, Drama, War",
+    "short_description": "1957 • David Lean • 161 min • 8.2"
+  },
+  {
+    "name": "Sleepers",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1996 • Barry Levinson • 147 min • 7.6"
+  },
+  {
+    "name": "Minions",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2015 • Kyle Balda, Pierre Coffin • 91 min • 6.4"
+  },
+  {
+    "name": "Mad Max",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1979 • George Miller • 88 min • 7"
+  },
+  {
+    "name": "Now You See Me 2",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2016 • Jon M. Chu • 129 min • 6.5"
+  },
+  {
+    "name": "The Intern",
+    "tag": "Comedy, Drama",
+    "short_description": "2015 • Nancy Meyers • 121 min • 7.1"
+  },
+  {
+    "name": "A Nightmare on Elm Street",
+    "tag": "Horror",
+    "short_description": "1984 • Wes Craven • 91 min • 7.5"
+  },
+  {
+    "name": "Maze Runner: The Scorch Trials",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2015 • Wes Ball • 131 min • 6.3"
+  },
+  {
+    "name": "You've Got Mail",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1998 • Nora Ephron • 119 min • 6.6"
+  },
+  {
+    "name": "Grindhouse",
+    "tag": "Action, Horror, Thriller",
+    "short_description": "2007 • Robert Rodriguez, Eli Roth, Quentin Tarantino, Edgar Wright, Rob Zombie • 191 min • 7.6"
+  },
+  {
+    "name": "Resident Evil: Extinction",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2007 • Russell Mulcahy • 94 min • 6.3"
+  },
+  {
+    "name": "Brazil",
+    "tag": "Drama, Sci-Fi",
+    "short_description": "1985 • Terry Gilliam • 132 min • 8"
+  },
+  {
+    "name": "The Croods",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2013 • Kirk De Micco, Chris Sanders • 98 min • 7.2"
+  },
+  {
+    "name": "Swordfish",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2001 • Dominic Sena • 99 min • 6.5"
+  },
+  {
+    "name": "The Chronicles of Narnia: Prince Caspian",
+    "tag": "Action, Adventure, Family",
+    "short_description": "2008 • Andrew Adamson • 150 min • 6.6"
+  },
+  {
+    "name": "Revolutionary Road",
+    "tag": "Drama, Romance",
+    "short_description": "2008 • Sam Mendes • 119 min • 7.3"
+  },
+  {
+    "name": "Elf",
+    "tag": "Comedy, Family, Fantasy",
+    "short_description": "2003 • Jon Favreau • 97 min • 6.9"
+  },
+  {
+    "name": "Wrath of the Titans",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2012 • Jonathan Liebesman • 99 min • 5.8"
+  },
+  {
+    "name": "Battle Los Angeles",
+    "tag": "Action, Sci-Fi",
+    "short_description": "2011 • Jonathan Liebesman • 116 min • 5.8"
+  },
+  {
+    "name": "When Harry Met Sally...",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "1989 • Rob Reiner • 96 min • 7.6"
+  },
+  {
+    "name": "A Fistful of Dollars",
+    "tag": "Western",
+    "short_description": "1964 • Sergio Leone • 99 min • 8"
+  },
+  {
+    "name": "The Sound of Music",
+    "tag": "Biography, Drama, Family",
+    "short_description": "1965 • Robert Wise • 174 min • 8"
+  },
+  {
+    "name": "The Taking of Pelham 123",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2009 • Tony Scott • 106 min • 6.4"
+  },
+  {
+    "name": "Unstoppable",
+    "tag": "Action, Thriller",
+    "short_description": "2010 • Tony Scott • 98 min • 6.8"
+  },
+  {
+    "name": "Modern Times",
+    "tag": "Comedy, Drama, Family",
+    "short_description": "1936 • Charles Chaplin • 87 min • 8.5"
+  },
+  {
+    "name": "Madagascar: Escape 2 Africa",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2008 • Eric Darnell, Tom McGrath • 89 min • 6.7"
+  },
+  {
+    "name": "The Raid: Redemption",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2011 • Gareth Evans • 101 min • 7.6"
+  },
+  {
+    "name": "Tinker Tailor Soldier Spy",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2011 • Tomas Alfredson • 122 min • 7.1"
+  },
+  {
+    "name": "Rush Hour",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "1998 • Brett Ratner • 98 min • 7.1"
+  },
+  {
+    "name": "The Impossible",
+    "tag": "Drama, Thriller",
+    "short_description": "2012 • J.A. Bayona • 114 min • 7.6"
+  },
+  {
+    "name": "The Bank Job",
+    "tag": "Crime, Drama, Romance",
+    "short_description": "2008 • Roger Donaldson • 111 min • 7.3"
+  },
+  {
+    "name": "Coraline",
+    "tag": "Animation, Family, Fantasy",
+    "short_description": "2009 • Henry Selick • 100 min • 7.7"
+  },
+  {
+    "name": "Chocolat",
+    "tag": "Drama, Romance",
+    "short_description": "2000 • Lasse Hallström • 121 min • 7.3"
+  },
+  {
+    "name": "Everest",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2015 • Baltasar Kormákur • 121 min • 7.1"
+  },
+  {
+    "name": "The Vow",
+    "tag": "Drama, Romance",
+    "short_description": "2012 • Michael Sucsy • 104 min • 6.8"
+  },
+  {
+    "name": "Eagle Eye",
+    "tag": "Action, Mystery, Thriller",
+    "short_description": "2008 • D.J. Caruso • 118 min • 6.6"
+  },
+  {
+    "name": "Sideways",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2004 • Alexander Payne • 126 min • 7.5"
+  },
+  {
+    "name": "K-PAX",
+    "tag": "Drama, Sci-Fi",
+    "short_description": "2001 • Iain Softley • 120 min • 7.4"
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "tag": "Animation, Drama, War",
+    "short_description": "1988 • Isao Takahata • 89 min • 8.5"
+  },
+  {
+    "name": "Ice Age: Continental Drift",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2012 • Steve Martino, Mike Thurmeier • 88 min • 6.6"
+  },
+  {
+    "name": "Surrogates",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2009 • Jonathan Mostow • 89 min • 6.3"
+  },
+  {
+    "name": "Shame",
+    "tag": "Drama",
+    "short_description": "2011 • Steve McQueen • 101 min • 7.2"
+  },
+  {
+    "name": "Bolt",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2008 • Byron Howard, Chris Williams • 96 min • 6.9"
+  },
+  {
+    "name": "The Golden Compass",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2007 • Chris Weitz • 113 min • 6.1"
+  },
+  {
+    "name": "Hero",
+    "tag": "Action, Adventure, History",
+    "short_description": "2002 • Yimou Zhang • 99 min • 7.9"
+  },
+  {
+    "name": "Knight and Day",
+    "tag": "Action, Comedy, Romance",
+    "short_description": "2010 • James Mangold • 109 min • 6.3"
+  },
+  {
+    "name": "Tomorrow Never Dies",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1997 • Roger Spottiswoode • 119 min • 6.5"
+  },
+  {
+    "name": "The Purge",
+    "tag": "Horror, Sci-Fi, Thriller",
+    "short_description": "2013 • James DeMonaco • 85 min • 5.7"
+  },
+  {
+    "name": "Side Effects",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2013 • Steven Soderbergh • 106 min • 7.1"
+  },
+  {
+    "name": "Zack and Miri Make a Porno",
+    "tag": "Comedy, Romance",
+    "short_description": "2008 • Kevin Smith • 101 min • 6.6"
+  },
+  {
+    "name": "Cruel Intentions",
+    "tag": "Drama, Romance",
+    "short_description": "1999 • Roger Kumble • 97 min • 6.8"
+  },
+  {
+    "name": "This Means War",
+    "tag": "Action, Comedy, Romance",
+    "short_description": "2012 • McG • 103 min • 6.3"
+  },
+  {
+    "name": "Cinderella Man",
+    "tag": "Biography, Drama, Sport",
+    "short_description": "2005 • Ron Howard • 144 min • 8"
+  },
+  {
+    "name": "Mamma Mia!",
+    "tag": "Comedy, Family, Musical",
+    "short_description": "2008 • Phyllida Lloyd • 108 min • 6.4"
+  },
+  {
+    "name": "25th Hour",
+    "tag": "Drama",
+    "short_description": "2002 • Spike Lee • 135 min • 7.7"
+  },
+  {
+    "name": "Jason Bourne",
+    "tag": "Action, Thriller",
+    "short_description": "2016 • Paul Greengrass • 123 min • 6.7"
+  },
+  {
+    "name": "Secret Window",
+    "tag": "Mystery, Thriller",
+    "short_description": "2004 • David Koepp • 96 min • 6.6"
+  },
+  {
+    "name": "Orphan",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2009 • Jaume Collet-Serra • 123 min • 7"
+  },
+  {
+    "name": "AVP: Alien vs. Predator",
+    "tag": "Action, Horror, Sci-Fi",
+    "short_description": "2004 • Paul W.S. Anderson • 101 min • 5.6"
+  },
+  {
+    "name": "Gremlins",
+    "tag": "Comedy, Fantasy, Horror",
+    "short_description": "1984 • Joe Dante • 106 min • 7.2"
+  },
+  {
+    "name": "How the Grinch Stole Christmas",
+    "tag": "Comedy, Family, Fantasy",
+    "short_description": "2000 • Ron Howard • 104 min • 6"
+  },
+  {
+    "name": "xXx",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2002 • Rob Cohen • 124 min • 5.8"
+  },
+  {
+    "name": "Air Force One",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "1997 • Wolfgang Petersen • 124 min • 6.5"
+  },
+  {
+    "name": "The Next Three Days",
+    "tag": "Crime, Drama, Romance",
+    "short_description": "2010 • Paul Haggis • 133 min • 7.4"
+  },
+  {
+    "name": "17 Again",
+    "tag": "Comedy, Drama, Family",
+    "short_description": "2009 • Burr Steers • 102 min • 6.4"
+  },
+  {
+    "name": "G.I. Joe: Retaliation",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2013 • Jon M. Chu • 110 min • 5.8"
+  },
+  {
+    "name": "The Last King of Scotland",
+    "tag": "Biography, Drama, History",
+    "short_description": "2006 • Kevin Macdonald • 123 min • 7.7"
+  },
+  {
+    "name": "Bram Stoker's Dracula",
+    "tag": "Fantasy, Horror",
+    "short_description": "1992 • Francis Ford Coppola • 128 min • 7.5"
+  },
+  {
+    "name": "Get Him to the Greek",
+    "tag": "Comedy, Music",
+    "short_description": "2010 • Nicholas Stoller • 109 min • 6.4"
+  },
+  {
+    "name": "Blue Valentine",
+    "tag": "Drama, Romance",
+    "short_description": "2010 • Derek Cianfrance • 112 min • 7.4"
+  },
+  {
+    "name": "Robin Hood: Prince of Thieves",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "1991 • Kevin Reynolds • 143 min • 6.9"
+  },
+  {
+    "name": "Sunset Boulevard",
+    "tag": "Drama, Film-Noir",
+    "short_description": "1950 • Billy Wilder • 110 min • 8.5"
+  },
+  {
+    "name": "Love & Other Drugs",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2010 • Edward Zwick • 112 min • 6.7"
+  },
+  {
+    "name": "Waterworld",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1995 • Kevin Reynolds • 135 min • 6.1"
+  },
+  {
+    "name": "The Great Dictator",
+    "tag": "Comedy, Drama, War",
+    "short_description": "1940 • Charles Chaplin • 125 min • 8.5"
+  },
+  {
+    "name": "Charlie's Angels",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "2000 • McG • 98 min • 5.5"
+  },
+  {
+    "name": "The Evil Dead",
+    "tag": "Horror",
+    "short_description": "1981 • Sam Raimi • 85 min • 7.5"
+  },
+  {
+    "name": "Jupiter Ascending",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "2015 • Lana Wachowski, Lilly Wachowski • 127 min • 5.3"
+  },
+  {
+    "name": "Enchanted",
+    "tag": "Animation, Comedy, Family",
+    "short_description": "2007 • Kevin Lima • 107 min • 7.1"
+  },
+  {
+    "name": "Adaptation.",
+    "tag": "Comedy, Drama",
+    "short_description": "2002 • Spike Jonze • 114 min • 7.7"
+  },
+  {
+    "name": "Ronin",
+    "tag": "Action, Adventure, Crime",
+    "short_description": "1998 • John Frankenheimer • 122 min • 7.3"
+  },
+  {
+    "name": "The Blues Brothers",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "1980 • John Landis • 133 min • 7.9"
+  },
+  {
+    "name": "Twister",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "1996 • Jan de Bont • 113 min • 6.3"
+  },
+  {
+    "name": "The Hunt for Red October",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1990 • John McTiernan • 135 min • 7.6"
+  },
+  {
+    "name": "The Woman in Black",
+    "tag": "Drama, Fantasy, Horror",
+    "short_description": "2012 • James Watkins • 95 min • 6.4"
+  },
+  {
+    "name": "The English Patient",
+    "tag": "Drama, Romance, War",
+    "short_description": "1996 • Anthony Minghella • 162 min • 7.4"
+  },
+  {
+    "name": "Jarhead",
+    "tag": "Action, Drama, War",
+    "short_description": "2005 • Sam Mendes • 125 min • 7"
+  },
+  {
+    "name": "Fantastic Mr. Fox",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2009 • Wes Anderson • 87 min • 7.8"
+  },
+  {
+    "name": "Rosemary's Baby",
+    "tag": "Drama, Horror",
+    "short_description": "1968 • Roman Polanski • 137 min • 8"
+  },
+  {
+    "name": "Saw III",
+    "tag": "Horror",
+    "short_description": "2006 • Darren Lynn Bousman • 108 min • 6.2"
+  },
+  {
+    "name": "Dracula Untold",
+    "tag": "Action, Drama, Fantasy",
+    "short_description": "2014 • Gary Shore • 92 min • 6.3"
+  },
+  {
+    "name": "Ghostbusters",
+    "tag": "Action, Comedy, Fantasy",
+    "short_description": "2016 • Paul Feig • 116 min • 5.3"
+  },
+  {
+    "name": "Percy Jackson & the Olympians: The Lightning Thief",
+    "tag": "Adventure, Family, Fantasy",
+    "short_description": "2010 • Chris Columbus • 118 min • 5.9"
+  },
+  {
+    "name": "About a Boy",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2002 • Chris Weitz, Paul Weitz • 101 min • 7.1"
+  },
+  {
+    "name": "The Life Aquatic with Steve Zissou",
+    "tag": "Adventure, Comedy, Drama",
+    "short_description": "2004 • Wes Anderson • 119 min • 7.3"
+  },
+  {
+    "name": "High Fidelity",
+    "tag": "Comedy, Drama, Music",
+    "short_description": "2000 • Stephen Frears • 113 min • 7.5"
+  },
+  {
+    "name": "Pi",
+    "tag": "Drama, Horror, Mystery",
+    "short_description": "1998 • Darren Aronofsky • 84 min • 7.5"
+  },
+  {
+    "name": "Chicken Run",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2000 • Peter Lord, Nick Park • 84 min • 7"
+  },
+  {
+    "name": "Shrek Forever After",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2010 • Mike Mitchell • 93 min • 6.3"
+  },
+  {
+    "name": "Miss Congeniality",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2000 • Donald Petrie • 109 min • 6.2"
+  },
+  {
+    "name": "Close Encounters of the Third Kind",
+    "tag": "Drama, Sci-Fi",
+    "short_description": "1977 • Steven Spielberg • 137 min • 7.7"
+  },
+  {
+    "name": "Ed Wood",
+    "tag": "Biography, Comedy, Drama",
+    "short_description": "1994 • Tim Burton • 127 min • 7.9"
+  },
+  {
+    "name": "The Judge",
+    "tag": "Crime, Drama",
+    "short_description": "2014 • David Dobkin • 141 min • 7.4"
+  },
+  {
+    "name": "What Happens in Vegas",
+    "tag": "Comedy, Romance",
+    "short_description": "2008 • Tom Vaughan • 99 min • 6.1"
+  },
+  {
+    "name": "The League of Extraordinary Gentlemen",
+    "tag": "Action, Adventure, Fantasy",
+    "short_description": "2003 • Stephen Norrington • 110 min • 5.8"
+  },
+  {
+    "name": "Beowulf",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "2007 • Robert Zemeckis • 115 min • 6.2"
+  },
+  {
+    "name": "The Thin Red Line",
+    "tag": "Drama, War",
+    "short_description": "1998 • Terrence Malick • 170 min • 7.6"
+  },
+  {
+    "name": "The Talented Mr. Ripley",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "1999 • Anthony Minghella • 139 min • 7.3"
+  },
+  {
+    "name": "The Boy in the Striped Pajamas",
+    "tag": "Drama, War",
+    "short_description": "2008 • Mark Herman • 94 min • 7.8"
+  },
+  {
+    "name": "Taken 3",
+    "tag": "Action, Thriller",
+    "short_description": "2014 • Olivier Megaton • 109 min • 6"
+  },
+  {
+    "name": "Desperado",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "1995 • Robert Rodriguez • 104 min • 7.2"
+  },
+  {
+    "name": "Hostel",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2005 • Eli Roth • 94 min • 5.9"
+  },
+  {
+    "name": "Goldfinger",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "1964 • Guy Hamilton • 110 min • 7.8"
+  },
+  {
+    "name": "Hitman",
+    "tag": "Action, Crime, Drama",
+    "short_description": "2007 • Xavier Gens • 100 min • 6.3"
+  },
+  {
+    "name": "The Secret in Their Eyes",
+    "tag": "Drama, Mystery, Romance",
+    "short_description": "2009 • Juan José Campanella • 129 min • 8.2"
+  },
+  {
+    "name": "A Million Ways to Die in the West",
+    "tag": "Comedy, Romance, Western",
+    "short_description": "2014 • Seth MacFarlane • 116 min • 6.1"
+  },
+  {
+    "name": "The Day the Earth Stood Still",
+    "tag": "Drama, Sci-Fi, Thriller",
+    "short_description": "2008 • Scott Derrickson • 104 min • 5.5"
+  },
+  {
+    "name": "30 Days of Night",
+    "tag": "Horror, Thriller",
+    "short_description": "2007 • David Slade • 113 min • 6.6"
+  },
+  {
+    "name": "Alexander",
+    "tag": "Action, Adventure, Biography",
+    "short_description": "2004 • Oliver Stone • 175 min • 5.5"
+  },
+  {
+    "name": "Tomorrowland",
+    "tag": "Action, Adventure, Family",
+    "short_description": "2015 • Brad Bird • 130 min • 6.5"
+  },
+  {
+    "name": "Hot Tub Time Machine",
+    "tag": "Comedy, Sci-Fi",
+    "short_description": "2010 • Steve Pink • 101 min • 6.4"
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "tag": "Animation, Family, Fantasy",
+    "short_description": "1937 • William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen • 83 min • 7.6"
+  },
+  {
+    "name": "Spaceballs",
+    "tag": "Adventure, Comedy, Sci-Fi",
+    "short_description": "1987 • Mel Brooks • 96 min • 7.1"
+  },
+  {
+    "name": "The Assassination of Jesse James by the Coward Robert Ford",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2007 • Andrew Dominik • 160 min • 7.5"
+  },
+  {
+    "name": "The Tree of Life",
+    "tag": "Drama, Fantasy",
+    "short_description": "2011 • Terrence Malick • 139 min • 6.8"
+  },
+  {
+    "name": "A Knight's Tale",
+    "tag": "Action, Adventure, Romance",
+    "short_description": "2001 • Brian Helgeland • 132 min • 6.9"
+  },
+  {
+    "name": "Need for Speed",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "2014 • Scott Waugh • 132 min • 6.5"
+  },
+  {
+    "name": "Erin Brockovich",
+    "tag": "Biography, Drama",
+    "short_description": "2000 • Steven Soderbergh • 131 min • 7.3"
+  },
+  {
+    "name": "Immortals",
+    "tag": "Action, Drama, Fantasy",
+    "short_description": "2011 • Tarsem Singh • 110 min • 6"
+  },
+  {
+    "name": "The Crow",
+    "tag": "Action, Drama, Fantasy",
+    "short_description": "1994 • Alex Proyas • 102 min • 7.6"
+  },
+  {
+    "name": "Mud",
+    "tag": "Drama",
+    "short_description": "2012 • Jeff Nichols • 130 min • 7.4"
+  },
+  {
+    "name": "Three Kings",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "1999 • David O. Russell • 114 min • 7.1"
+  },
+  {
+    "name": "Milk",
+    "tag": "Biography, Drama, History",
+    "short_description": "2008 • Gus Van Sant • 128 min • 7.6"
+  },
+  {
+    "name": "The Ninth Gate",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "1999 • Roman Polanski • 133 min • 6.7"
+  },
+  {
+    "name": "Mama",
+    "tag": "Horror, Thriller",
+    "short_description": "2013 • Andrés Muschietti • 100 min • 6.2"
+  },
+  {
+    "name": "Rushmore",
+    "tag": "Comedy, Drama",
+    "short_description": "1998 • Wes Anderson • 93 min • 7.7"
+  },
+  {
+    "name": "The Mask of Zorro",
+    "tag": "Action, Adventure, Comedy",
+    "short_description": "1998 • Martin Campbell • 136 min • 6.7"
+  },
+  {
+    "name": "Legally Blonde",
+    "tag": "Comedy, Romance",
+    "short_description": "2001 • Robert Luketic • 96 min • 6.2"
+  },
+  {
+    "name": "The Change-Up",
+    "tag": "Comedy, Fantasy",
+    "short_description": "2011 • David Dobkin • 112 min • 6.3"
+  },
+  {
+    "name": "Straight Outta Compton",
+    "tag": "Biography, Drama, History",
+    "short_description": "2015 • F. Gary Gray • 147 min • 7.9"
+  },
+  {
+    "name": "Resident Evil: Afterlife",
+    "tag": "Action, Adventure, Horror",
+    "short_description": "2010 • Paul W.S. Anderson • 97 min • 5.9"
+  },
+  {
+    "name": "Blade: Trinity",
+    "tag": "Action, Adventure, Horror",
+    "short_description": "2004 • David S. Goyer • 113 min • 5.9"
+  },
+  {
+    "name": "Happy Feet",
+    "tag": "Animation, Comedy, Family",
+    "short_description": "2006 • George Miller, Warren Coleman, Judy Morris • 108 min • 6.5"
+  },
+  {
+    "name": "Team America: World Police",
+    "tag": "Action, Comedy",
+    "short_description": "2004 • Trey Parker • 98 min • 7.2"
+  },
+  {
+    "name": "The Man from Earth",
+    "tag": "Drama, Fantasy, Sci-Fi",
+    "short_description": "2007 • Richard Schenkman • 87 min • 8"
+  },
+  {
+    "name": "The Road Warrior",
+    "tag": "Action, Adventure, Sci-Fi",
+    "short_description": "1981 • George Miller • 94 min • 7.6"
+  },
+  {
+    "name": "Deep Impact",
+    "tag": "Action, Drama, Romance",
+    "short_description": "1998 • Mimi Leder • 120 min • 6.1"
+  },
+  {
+    "name": "The Heat",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2013 • Paul Feig • 117 min • 6.6"
+  },
+  {
+    "name": "The Green Hornet",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2011 • Michel Gondry • 119 min • 5.8"
+  },
+  {
+    "name": "Night at the Museum: Battle of the Smithsonian",
+    "tag": "Adventure, Comedy, Family",
+    "short_description": "2009 • Shawn Levy • 105 min • 5.9"
+  },
+  {
+    "name": "Layer Cake",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2004 • Matthew Vaughn • 105 min • 7.4"
+  },
+  {
+    "name": "Shark Tale",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2004 • Bibo Bergeron, Vicky Jenson, Rob Letterman • 90 min • 6"
+  },
+  {
+    "name": "Willy Wonka & the Chocolate Factory",
+    "tag": "Family, Fantasy, Musical",
+    "short_description": "1971 • Mel Stuart • 100 min • 7.8"
+  },
+  {
+    "name": "Anchorman 2: The Legend Continues",
+    "tag": "Comedy",
+    "short_description": "2013 • Adam McKay • 119 min • 6.3"
+  },
+  {
+    "name": "The Conjuring 2",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2016 • James Wan • 134 min • 7.4"
+  },
+  {
+    "name": "Michael Clayton",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2007 • Tony Gilroy • 119 min • 7.3"
+  },
+  {
+    "name": "The Insider",
+    "tag": "Biography, Drama, Thriller",
+    "short_description": "1999 • Michael Mann • 157 min • 7.9"
+  },
+  {
+    "name": "[Rec]",
+    "tag": "Horror, Mystery, Thriller",
+    "short_description": "2007 • Jaume Balagueró, Paco Plaza • 78 min • 7.5"
+  },
+  {
+    "name": "Road Trip",
+    "tag": "Adventure, Comedy",
+    "short_description": "2000 • Todd Phillips • 93 min • 6.5"
+  },
+  {
+    "name": "The Emperor's New Groove",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2000 • Mark Dindal • 78 min • 7.3"
+  },
+  {
+    "name": "The Abyss",
+    "tag": "Adventure, Drama, Sci-Fi",
+    "short_description": "1989 • James Cameron • 145 min • 7.6"
+  },
+  {
+    "name": "Ted 2",
+    "tag": "Adventure, Comedy, Romance",
+    "short_description": "2015 • Seth MacFarlane • 115 min • 6.3"
+  },
+  {
+    "name": "The Ghost Writer",
+    "tag": "Mystery, Thriller",
+    "short_description": "2010 • Roman Polanski • 128 min • 7.2"
+  },
+  {
+    "name": "Talladega Nights: The Ballad of Ricky Bobby",
+    "tag": "Action, Comedy, Sport",
+    "short_description": "2006 • Adam McKay • 108 min • 6.6"
+  },
+  {
+    "name": "It Follows",
+    "tag": "Horror, Mystery",
+    "short_description": "2014 • David Robert Mitchell • 100 min • 6.9"
+  },
+  {
+    "name": "The Perfect Storm",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2000 • Wolfgang Petersen • 130 min • 6.4"
+  },
+  {
+    "name": "He's Just Not That Into You",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2009 • Ken Kwapis • 129 min • 6.4"
+  },
+  {
+    "name": "The Expendables 3",
+    "tag": "Action, Adventure, Thriller",
+    "short_description": "2014 • Patrick Hughes • 126 min • 6.1"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "tag": "Family, Fantasy, Musical",
+    "short_description": "2017 • Bill Condon • 129 min • 7.5"
+  },
+  {
+    "name": "The Karate Kid",
+    "tag": "Action, Drama, Family",
+    "short_description": "1984 • John G. Avildsen • 126 min • 7.2"
+  },
+  {
+    "name": "Exodus: Gods and Kings",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "2014 • Ridley Scott • 150 min • 6"
+  },
+  {
+    "name": "Hard Candy",
+    "tag": "Crime, Drama, Thriller",
+    "short_description": "2005 • David Slade • 104 min • 7.1"
+  },
+  {
+    "name": "Melancholia",
+    "tag": "Drama",
+    "short_description": "2011 • Lars von Trier • 135 min • 7.1"
+  },
+  {
+    "name": "Tucker and Dale vs Evil",
+    "tag": "Comedy, Horror",
+    "short_description": "2010 • Eli Craig • 89 min • 7.6"
+  },
+  {
+    "name": "The Longest Yard",
+    "tag": "Comedy, Crime, Sport",
+    "short_description": "2005 • Peter Segal • 113 min • 6.4"
+  },
+  {
+    "name": "Letters from Iwo Jima",
+    "tag": "Drama, History, War",
+    "short_description": "2006 • Clint Eastwood • 141 min • 7.9"
+  },
+  {
+    "name": "The Iron Giant",
+    "tag": "Animation, Action, Adventure",
+    "short_description": "1999 • Brad Bird • 86 min • 8"
+  },
+  {
+    "name": "The Hills Have Eyes",
+    "tag": "Horror",
+    "short_description": "2006 • Alexandre Aja • 107 min • 6.4"
+  },
+  {
+    "name": "Army of Darkness",
+    "tag": "Comedy, Horror",
+    "short_description": "1992 • Sam Raimi • 81 min • 7.6"
+  },
+  {
+    "name": "Adventureland",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2009 • Greg Mottola • 107 min • 6.8"
+  },
+  {
+    "name": "Black Mass",
+    "tag": "Biography, Crime, Drama",
+    "short_description": "2015 • Scott Cooper • 123 min • 6.9"
+  },
+  {
+    "name": "Blades of Glory",
+    "tag": "Comedy, Sport",
+    "short_description": "2007 • Josh Gordon, Will Speck • 93 min • 6.3"
+  },
+  {
+    "name": "Cape Fear",
+    "tag": "Crime, Thriller",
+    "short_description": "1991 • Martin Scorsese • 128 min • 7.3"
+  },
+  {
+    "name": "Once Upon a Time in Mexico",
+    "tag": "Action, Thriller",
+    "short_description": "2003 • Robert Rodriguez • 102 min • 6.4"
+  },
+  {
+    "name": "Beverly Hills Cop",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "1984 • Martin Brest • 105 min • 7.3"
+  },
+  {
+    "name": "Wild Wild West",
+    "tag": "Action, Comedy, Sci-Fi",
+    "short_description": "1999 • Barry Sonnenfeld • 106 min • 4.8"
+  },
+  {
+    "name": "Lethal Weapon 3",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "1992 • Richard Donner • 118 min • 6.7"
+  },
+  {
+    "name": "RED 2",
+    "tag": "Action, Comedy, Crime",
+    "short_description": "2013 • Dean Parisot • 116 min • 6.7"
+  },
+  {
+    "name": "Abraham Lincoln: Vampire Hunter",
+    "tag": "Action, Fantasy, Horror",
+    "short_description": "2012 • Timur Bekmambetov • 105 min • 5.9"
+  },
+  {
+    "name": "Definitely, Maybe",
+    "tag": "Comedy, Drama, Romance",
+    "short_description": "2008 • Adam Brooks • 112 min • 7.2"
+  },
+  {
+    "name": "Over the Hedge",
+    "tag": "Animation, Adventure, Comedy",
+    "short_description": "2006 • Tim Johnson, Karey Kirkpatrick • 83 min • 6.8"
+  },
+  {
+    "name": "Evil Dead",
+    "tag": "Fantasy, Horror",
+    "short_description": "2013 • Fede Alvarez • 91 min • 6.5"
+  },
+  {
+    "name": "Lethal Weapon 4",
+    "tag": "Action, Crime, Thriller",
+    "short_description": "1998 • Richard Donner • 127 min • 6.6"
+  },
+  {
+    "name": "Superman",
+    "tag": "Action, Adventure, Drama",
+    "short_description": "1978 • Richard Donner • 143 min • 7.3"
+  },
+  {
+    "name": "Date Night",
+    "tag": "Comedy, Crime, Romance",
+    "short_description": "2010 • Shawn Levy • 88 min • 6.3"
+  },
+  {
+    "name": "Girl, Interrupted",
+    "tag": "Biography, Drama",
+    "short_description": "1999 • James Mangold • 127 min • 7.3"
+  },
+  {
+    "name": "Clueless",
+    "tag": "Comedy, Romance",
+    "short_description": "1995 • Amy Heckerling • 97 min • 6.8"
+  },
+  {
+    "name": "Jay and Silent Bob Strike Back",
+    "tag": "Comedy",
+    "short_description": "2001 • Kevin Smith • 104 min • 6.9"
+  },
+  {
+    "name": "The Man in the Iron Mask",
+    "tag": "Action, Adventure",
+    "short_description": "1998 • Randall Wallace • 132 min • 6.5"
+  },
+  {
+    "name": "Riddick",
+    "tag": "Action, Sci-Fi, Thriller",
+    "short_description": "2013 • David Twohy • 119 min • 6.4"
+  },
+  {
+    "name": "Flightplan",
+    "tag": "Drama, Mystery, Thriller",
+    "short_description": "2005 • Robert Schwentke • 98 min • 6.2"
+  },
+  {
+    "name": "Paths of Glory",
+    "tag": "Drama, War",
+    "short_description": "1957 • Stanley Kubrick • 88 min • 8.5"
+  },
+  {
+    "name": "The Polar Express",
+    "tag": "Animation, Adventure, Family",
+    "short_description": "2004 • Robert Zemeckis • 100 min • 6.6"
+  },
+  {
+    "name": "Vantage Point",
+    "tag": "Crime, Drama, Mystery",
+    "short_description": "2008 • Pete Travis • 90 min • 6.6"
+  }
+]
