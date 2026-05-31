@@ -1,8 +1,8 @@
 # Client Fuzzy Search
 
-A small React demo of a command-palette–style smart search running entirely in the browser. There is no search API or backend: documents are loaded as static JSON, indexed and scored in JavaScript, and results follow the input via React `useDeferredValue` (no separate debounce timer). Vite, React 19, TypeScript, Tailwind CSS. `npm install` and `npm run dev`
+A small React demo of a command-palette–style smart search running entirely in the browser. There is no search API or backend: documents are loaded as static JSON, indexed and scored in JavaScript, and results follow the input via React `useDeferredValue` (no separate debounce timer). Vite, React 19, TypeScript, Tailwind CSS. `npm install` and `npm run dev`.
 
-Features full keyboard navigation and highlighted matches. The bundled JSON is `src/data/movies_1000.json` — 1000 popular movies. To use custom documents and schema, replace or point to the JSON source, update the TypeScript types, and adapt `preparePage` in `src/lib/searchDocument.ts` for correct field mapping into the search index.
+Features highlighted matches, keyboard navigation, and screen reader support. The bundled JSON is `src/data/movies_1000.json` — 1000 popular movies. To use custom documents and schema, replace or point to the JSON source, update the TypeScript types, and adapt `preparePage` in `src/lib/searchDocument.ts` for correct field mapping into the search index.
 
 ## Search (quick overview)
 

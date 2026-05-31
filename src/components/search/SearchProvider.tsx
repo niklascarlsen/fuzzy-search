@@ -72,6 +72,7 @@ export function SearchProvider({children}: SearchProviderProps) {
       open,
       inputRef,
       query,
+      deferredQuery,
       results,
       loading,
       hasQuery,

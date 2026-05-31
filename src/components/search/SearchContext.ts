@@ -6,6 +6,7 @@ export type SearchStateValue = {
   open: boolean;
   inputRef: RefObject<HTMLInputElement | null>;
   query: string;
+  deferredQuery: string;
   results: SearchResult[];
   loading: boolean;
   hasQuery: boolean;

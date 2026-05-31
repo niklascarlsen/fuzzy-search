@@ -6,8 +6,11 @@ import {EscIcon} from '@/icons/EscIcon';
 
 export function SearchFooter() {
   return (
-    <footer className='shrink-0 border-t  bg-background border-white/10 px-4 py-2'>
-      <div className='flex flex-wrap items-center justify-between gap-x-6 gap-y-2 text-xs text-foreground/50 '>
+    <footer
+      aria-hidden='true'
+      className='shrink-0 border-t bg-background border-white/10 px-4 py-2'
+    >
+      <div className='flex flex-wrap items-center justify-between gap-x-6 gap-y-2 text-xs text-foreground/50'>
         <span className='inline-flex items-center gap-2'>
           <Kbd className='size-6 min-w-7 p-0'>
             <EnterIcon strokeWidth={1.3} />

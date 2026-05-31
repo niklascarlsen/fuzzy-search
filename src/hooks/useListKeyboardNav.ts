@@ -5,6 +5,7 @@ type ListKeyboardNavOptions = {
   onSelect: (index: number) => void;
   resetKey: string;
   onKeyboardNav?: () => void;
+  onActiveOptionChange?: (index: number) => void;
 };
 
 function isInteractiveTarget(el: Element | null): boolean {
@@ -16,20 +17,23 @@ function isInteractiveTarget(el: Element | null): boolean {
 
 export function useListKeyboardNav(
   itemCount: number,
-  {enabled, onSelect, resetKey, onKeyboardNav}: ListKeyboardNavOptions,
+  {
+    enabled,
+    onSelect,
+    resetKey,
+    onKeyboardNav,
+    onActiveOptionChange,
+  }: ListKeyboardNavOptions,
 ) {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
-  // Mirror the latest selection so the Enter handler can read it without
-  // re-registering the global keydown listener on every selection change.
-  const selectedRef = useRef(selectedIndex);
+  const selectedRef = useRef(selectedIndex); // stable Enter handler without re-subscribing
   useLayoutEffect(() => {
     selectedRef.current = selectedIndex;
   }, [selectedIndex]);
 
   useLayoutEffect(() => {
-    // Reset synchronously before paint so a previous highlight never flashes on a new result set.
-    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional list highlight reset
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- reset highlight before paint
     setSelectedIndex(-1);
   }, [resetKey, itemCount]);
 
@@ -41,8 +45,9 @@ export function useListKeyboardNav(
         e.preventDefault();
         onKeyboardNav?.();
         setSelectedIndex((i) => {
-          if (i === -1) return 0;
-          return i < itemCount - 1 ? i + 1 : i;
+          const next = i === -1 ? 0 : i < itemCount - 1 ? i + 1 : i;
+          onActiveOptionChange?.(next);
+          return next;
         });
         return;
       }
@@ -50,7 +55,11 @@ export function useListKeyboardNav(
       if (e.key === 'ArrowUp') {
         e.preventDefault();
         onKeyboardNav?.();
-        setSelectedIndex((i) => (i > 0 ? i - 1 : -1));
+        setSelectedIndex((i) => {
+          const next = i > 0 ? i - 1 : -1;
+          onActiveOptionChange?.(next);
+          return next;
+        });
         return;
       }
 
@@ -58,14 +67,13 @@ export function useListKeyboardNav(
         if (isInteractiveTarget(document.activeElement)) return;
 
         const current = selectedRef.current;
-        // No highlighted row yet (user still in search field only) — do not pick item 0 or close.
-        if (current < 0) return;
+        if (current < 0) return; // no row highlighted yet
 
         e.preventDefault();
         onSelect(current);
       }
     },
-    [enabled, itemCount, onSelect, onKeyboardNav],
+    [enabled, itemCount, onSelect, onKeyboardNav, onActiveOptionChange],
   );
 
   useEffect(() => {

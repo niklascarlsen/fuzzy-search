@@ -32,7 +32,8 @@ export function SearchInput({
       <SearchIcon height={20} width={20} />
       <input
         ref={ref}
-        type='search'
+        type='text'
+        inputMode='search'
         autoComplete='off'
         spellCheck={false}
         value={value}

@@ -1,10 +1,13 @@
 import type {MatchReason, SearchResult} from '@/types/document';
 import {MATCH_REASON_LABEL, SEARCH_DEBUG_UI} from '@/lib/searchEngine';
+import {searchOptionLabel} from './searchA11y';
 import {EnterIcon} from '@/icons/EnterIcon';
 
 type SearchResultItemProps = {
+  id: string;
   doc: SearchResult;
   index: number;
+  resultCount: number;
   isSelected: boolean;
   pointerHoverAllowed: boolean;
   onSelect: (index: number) => void;
@@ -87,8 +90,10 @@ function DebugBadges({
 }
 
 export function SearchResultItem({
+  id,
   doc,
   index,
+  resultCount,
   isSelected,
   pointerHoverAllowed,
   onSelect,
@@ -99,8 +104,17 @@ export function SearchResultItem({
 
   return (
     <li
+      id={id}
       role='option'
       aria-selected={isSelected}
+      aria-setsize={resultCount}
+      aria-posinset={index + 1}
+      aria-label={searchOptionLabel(
+        doc.name,
+        doc.short_description,
+        index,
+        resultCount,
+      )}
       data-index={index}
       className={`search-result-row ${pointerGated ? 'search-result-row--pointer-gated' : ''} group cursor-pointer rounded-[2.5px] px-2 md:px-3 py-2 md:py-2.5 scroll-mt-1 scroll-mb-2 ${c.row}`}
       onPointerMove={
@@ -111,10 +125,10 @@ export function SearchResultItem({
       onMouseDown={(e) => e.preventDefault()}
       onClick={() => onSelect(index)}
     >
-      <div className='flex items-center justify-between gap-3'>
+      <div className='flex items-center justify-between gap-3' aria-hidden='true'>
         <div className='min-w-0 flex-1'>
           <div className='flex min-w-0 items-center gap-2.5'>
-            <h2
+            <span
               className={`relative min-w-0 shrink truncate text-base font-semibold ${c.title}`}
               dangerouslySetInnerHTML={{__html: doc.highlightedName}}
             />
@@ -133,7 +147,6 @@ export function SearchResultItem({
         </div>
         <span
           className={`hidden fine-pointer:flex shrink-0 items-center text-foreground-solid ${c.icon}`}
-          aria-hidden
         >
           <EnterIcon className='size-7.5' />
         </span>
