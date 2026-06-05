@@ -5,6 +5,7 @@ export function needsOptionLiveAnnouncement(): boolean {
   return /AppleWebKit/i.test(ua) && !/Chrom(e|ium)|Edg\//.test(ua);
 }
 
+export const SEARCH_DIALOG_ID = 'search-dialog';
 export const SEARCH_TITLE_ID = 'search-title';
 export const SEARCH_HINTS_ID = 'search-hints';
 export const SEARCH_LISTBOX_ID = 'search-listbox';

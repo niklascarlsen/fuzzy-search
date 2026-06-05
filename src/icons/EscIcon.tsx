@@ -11,8 +11,7 @@ export function EscIcon({
       width={width}
       height={height}
       viewBox='0 0 15 15'
-      aria-label='Escape key'
-      role='img'
+      aria-hidden
       className={className}
       {...props}
     >

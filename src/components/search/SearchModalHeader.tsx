@@ -1,6 +1,6 @@
 import {useSearchActions, useSearchState} from './SearchContext';
+import {SEARCH_DIALOG_ID, SEARCH_FIELD_HINTS, SEARCH_HINTS_ID} from './searchA11y';
 import {SearchInput} from './SearchInput';
-import {SEARCH_FIELD_HINTS, SEARCH_HINTS_ID} from './searchA11y';
 
 type SearchModalHeaderProps = {
   linkFieldHints: boolean;
@@ -19,7 +19,7 @@ export function SearchModalHeader({
   onSearchInputActivity,
 }: SearchModalHeaderProps) {
   const {inputRef, query} = useSearchState();
-  const {setQuery, closeModal} = useSearchActions();
+  const {setQuery} = useSearchActions();
 
   return (
     <div className='shrink-0 bg-secondary px-3 pb-2 pt-3 md:px-4 md:pb-4 md:pt-4'>
@@ -51,7 +51,9 @@ export function SearchModalHeader({
         </div>
         <button
           type='button'
-          onClick={closeModal}
+          commandfor={SEARCH_DIALOG_ID}
+          command='close'
+          aria-label='Close search'
           className='shrink-0 rounded-xs h-12 px-1 text-base font-semibold text-primary transition-colors focus:outline-none focus-visible:ring-1 focus-visible:ring-primary md:hidden'
         >
           Cancel

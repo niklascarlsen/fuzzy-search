@@ -7,7 +7,7 @@ Features highlighted matches, keyboard navigation, and screen reader support. Th
 ## Search (quick overview)
 
 * **Indexed fields:** `name`, `tag` (comma-separated string), `short_description`.
-* **Logic:** Query -> lowercase tokens (split on spaces); every token must match.
+* **Logic:** Query -> lowercase tokens (split on spaces) — every token must match.
 * **Scoring:** exact/prefix/substring on title words and tags, substring in description (tokens ≥ 3 chars).
 * **Fallback:** If a token still matches nothing, acronym or typo on the title.
 * **Bonus:** Applied if the full query equals the whole title or whole tag string.

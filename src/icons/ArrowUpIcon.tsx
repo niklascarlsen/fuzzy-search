@@ -11,8 +11,7 @@ export function ArrowUpIcon({
       width={width}
       height={height}
       viewBox='0 0 15 15'
-      aria-label='Arrow up'
-      role='img'
+      aria-hidden
       className={className}
       {...props}
     >

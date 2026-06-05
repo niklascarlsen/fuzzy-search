@@ -11,6 +11,7 @@ export function XIcon({
       width={width}
       height={height}
       viewBox='0 0 20 20'
+      aria-hidden
       className={className}
       {...props}
     >

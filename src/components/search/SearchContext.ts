@@ -3,7 +3,6 @@ import type {Dispatch, RefObject, SetStateAction} from 'react';
 import type {SearchResult} from '@/types/document';
 
 export type SearchStateValue = {
-  open: boolean;
   inputRef: RefObject<HTMLInputElement | null>;
   query: string;
   deferredQuery: string;
@@ -14,9 +13,6 @@ export type SearchStateValue = {
 };
 
 export type SearchActionsValue = {
-  setOpen: Dispatch<SetStateAction<boolean>>;
-  openModal: () => void;
-  closeModal: () => void;
   setQuery: Dispatch<SetStateAction<string>>;
 };
 

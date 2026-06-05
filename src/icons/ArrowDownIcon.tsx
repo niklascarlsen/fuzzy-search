@@ -11,8 +11,7 @@ export function ArrowDownIcon({
       width={width}
       height={height}
       viewBox='0 0 15 15'
-      aria-label='Arrow down'
-      role='img'
+      aria-hidden
       className={className}
       {...props}
     >

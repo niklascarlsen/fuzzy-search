@@ -1,7 +1,7 @@
 import type {Ref} from 'react';
 import SearchIcon from '@/icons/SearchIcon';
 import {SEARCH_SHORTCUT_LABEL} from '@/lib/modKey';
-import {useSearchActions} from './SearchContext';
+import {SEARCH_DIALOG_ID} from './searchA11y';
 
 type SearchOpenTriggerProps = {
   ref?: Ref<HTMLButtonElement>;
@@ -12,13 +12,12 @@ export function SearchOpenTrigger({
   ref,
   className = '',
 }: SearchOpenTriggerProps) {
-  const {openModal} = useSearchActions();
-
   return (
     <button
       ref={ref}
       type='button'
-      onClick={openModal}
+      commandfor={SEARCH_DIALOG_ID}
+      command='show-modal'
       aria-label='Open search'
       className={`group relative rounded-xs flex h-11 w-11 shrink-0 items-center justify-center transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 p-5 ml-[3px] mt-px focus-visible:ring-offset-background md:h-auto md:w-fit md:justify-start md:py-2.5 md:pl-4 cursor-pointer md:pr-3 ${className}`}
     >

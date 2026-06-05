@@ -5,6 +5,7 @@ import {
   searchOptionId,
   searchOptionLabel,
   updateOptionLiveRegion,
+  SEARCH_DIALOG_ID,
   SEARCH_LISTBOX_ID,
   SEARCH_STATUS_ID,
   SEARCH_TITLE_ID,
@@ -12,6 +13,7 @@ import {
 import type {SearchResult} from '@/types/document';
 import {useListKeyboardNav} from '@/hooks/useListKeyboardNav';
 import {useSearchPointerHover} from '@/hooks/useSearchPointerHover';
+import {useScrollLock} from '@/hooks/useScrollLock';
 import {useSearchActions, useSearchState} from './SearchContext';
 import {SearchModalHeader} from './SearchModalHeader';
 import {SearchBody} from './SearchBody';
@@ -33,15 +35,18 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
   const announcedStatusRef = useRef('');
   const lastSearchKeyAtRef = useRef(0);
   const statusClearTimerRef = useRef<ReturnType<typeof setTimeout>>(undefined);
+  const [open, setOpen] = useState(false);
   const [linkFieldHints, setLinkFieldHints] = useState(true);
 
-  const {open, inputRef, results, resetKey, loading, query, deferredQuery} =
+  const {inputRef, results, resetKey, loading, query, deferredQuery} =
     useSearchState();
   const trimmedDeferred = deferredQuery.trim();
   const trimmedImmediate = query.trim();
 
-  const {closeModal} = useSearchActions();
+  const {setQuery} = useSearchActions();
   const {hoverAllowed, lockHover} = useSearchPointerHover(resetKey);
+
+  useScrollLock(open);
 
   const statusMessage = getSearchStatusMessage(
     trimmedDeferred,
@@ -50,33 +55,51 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
     results.length,
   );
 
+  // Sync React open state from dialog toggle/close events.
+  // This means HTML (commandfor/command, showModal) is the source of truth.
   useEffect(() => {
     const dialog = dialogRef.current;
     if (!dialog) return;
-    if (open) {
-      if (!dialog.open) dialog.showModal();
-    } else {
-      if (dialog.open) dialog.close();
-      announcedStatusRef.current = '';
-      // eslint-disable-next-line react-hooks/set-state-in-effect -- reset hints for next open
-      setLinkFieldHints(true);
-    }
-  }, [open]);
 
-  useEffect(() => {
-    const dialog = dialogRef.current;
-    if (!dialog) return;
-    const handleClose = () => closeModal();
+    const handleToggle = () => {
+      if (dialog.open) setOpen(true);
+    };
+
+    const handleClose = () => {
+      setOpen(false);
+      setQuery('');
+      announcedStatusRef.current = '';
+      setLinkFieldHints(true);
+    };
+
+    dialog.addEventListener('toggle', handleToggle);
     dialog.addEventListener('close', handleClose);
-    return () => dialog.removeEventListener('close', handleClose);
-  }, [closeModal]);
+    return () => {
+      dialog.removeEventListener('toggle', handleToggle);
+      dialog.removeEventListener('close', handleClose);
+    };
+  }, [setQuery]);
+
+  // Cmd+K / Ctrl+K global shortcut - lives here where dialogRef is available.
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'k' && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        const dialog = dialogRef.current;
+        if (!dialog) return;
+        if (dialog.open) dialog.close();
+        else dialog.showModal();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
 
   const markSearchInputActivity = useCallback(() => {
     lastSearchKeyAtRef.current = Date.now();
     setLinkFieldHints(false);
   }, []);
 
-  // Status goes to #status once deferred query matches and the field has been idle.
   useEffect(() => {
     if (!open) return;
     if (trimmedImmediate !== trimmedDeferred) return;
@@ -144,9 +167,9 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
       const doc = results[index];
       if (!doc) return;
       onResultSelect?.(doc);
-      closeModal();
+      dialogRef.current?.close();
     },
-    [results, onResultSelect, closeModal],
+    [results, onResultSelect],
   );
 
   const optionLiveRegion = needsOptionLiveAnnouncement();
@@ -206,9 +229,9 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
 
   const handleBackdropClick = useCallback(
     (e: React.MouseEvent<HTMLDialogElement>) => {
-      if (e.target === dialogRef.current) closeModal();
+      if (e.target === dialogRef.current) dialogRef.current.close();
     },
-    [closeModal],
+    [],
   );
 
   const showStatusVisual =
@@ -217,13 +240,14 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
   return (
     <dialog
       ref={dialogRef}
+      id={SEARCH_DIALOG_ID}
       tabIndex={-1}
       aria-labelledby={SEARCH_TITLE_ID}
       onClick={handleBackdropClick}
       className='search-modal'
     >
       <div
-        className='flex h-dvh w-full min-w-0 max-w-full flex-col overflow-hidden bg-secondary md:mx-auto md:max-h-[85vh]  md:h-[800px] md:max-w-xl md:rounded-sm md:border md:border-white/10 md:shadow-2xl'
+        className='search-modal-inner flex h-dvh w-full min-w-0 max-w-full flex-col overflow-hidden bg-secondary md:mx-auto md:max-h-[85vh] md:h-[800px] md:max-w-xl md:rounded-sm md:border md:border-white/10 md:shadow-2xl'
         onClick={(e) => e.stopPropagation()}
       >
         <h1 id={SEARCH_TITLE_ID} className='sr-only'>
