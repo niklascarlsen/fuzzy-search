@@ -2,6 +2,7 @@ import {useCallback, useEffect, useRef, useState} from 'react';
 import {
   getSearchStatusMessage,
   needsOptionLiveAnnouncement,
+  searchNoResultsLabel,
   searchOptionId,
   searchOptionLabel,
   updateOptionLiveRegion,
@@ -234,8 +235,10 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
     [],
   );
 
-  const showStatusVisual =
-    statusMessage.length > 0 && statusMessage.startsWith('No results');
+  // Derived from deferred query directly - independent of the debounced
+  // screen-reader live region, so it updates the instant filtering settles.
+  const showNoResultsVisual =
+    trimmedDeferred.length > 0 && !loading && results.length === 0;
 
   return (
     <dialog
@@ -266,11 +269,7 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
           role='status'
           aria-live={querySettled ? 'polite' : 'off'}
           aria-atomic='true'
-          className={
-            showStatusVisual
-              ? 'px-3 py-8 text-center text-sm text-muted md:px-4'
-              : 'sr-only'
-          }
+          className='sr-only'
         />
         <div
           ref={optionLiveRef}
@@ -284,7 +283,14 @@ export function SearchModal({onResultSelect}: SearchModalProps = {}) {
           tabIndex={-1}
           className='min-h-0 flex-1 overflow-y-auto overscroll-contain scroll-pt-4 scroll-pb-12'
         >
-          {!showStatusVisual && (
+          {showNoResultsVisual ? (
+            <p
+              aria-hidden='true'
+              className='px-3 py-8 text-center text-sm text-muted md:px-4'
+            >
+              {searchNoResultsLabel(trimmedDeferred)}
+            </p>
+          ) : (
             <SearchBody
               scrollContainerRef={scrollAreaRef}
               pointerHoverAllowed={hoverAllowed}

@@ -48,6 +48,10 @@ export function searchResultCountLabel(count: number): string {
   return count === 1 ? '1 result' : `${count} results`;
 }
 
+export function searchNoResultsLabel(query: string): string {
+  return `No results for ${query}`;
+}
+
 export function getSearchStatusMessage(
   trimmedDeferred: string,
   trimmedImmediate: string,
@@ -62,7 +66,7 @@ export function getSearchStatusMessage(
   // Index still loading - skip status so we don't say "No results" too early.
   if (dataLoading && resultCount === 0) return '';
 
-  if (resultCount === 0) return `No results for ${trimmedDeferred}`;
+  if (resultCount === 0) return searchNoResultsLabel(trimmedDeferred);
 
   return `${trimmedDeferred}, ${searchResultCountLabel(resultCount)}. Arrow down to navigate results.`;
 }
